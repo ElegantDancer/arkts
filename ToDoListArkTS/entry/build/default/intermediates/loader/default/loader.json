@@ -1,0 +1,25 @@
+{
+  "modulePathMap": {
+    "entry": "D:\\sourceCode\\HuaWei\\codelabs\\ToDoListArkTS\\entry"
+  },
+  "compileMode": "esmodule",
+  "projectRootPath": "D:\\sourceCode\\HuaWei\\codelabs\\ToDoListArkTS",
+  "nodeModulesPath": "D:\\sourceCode\\HuaWei\\codelabs\\ToDoListArkTS\\entry\\build\\default\\intermediates\\loader_out\\default\\node_modules",
+  "byteCodeHarInfo": {},
+  "declarationEntry": [],
+  "moduleName": "entry",
+  "hspNameOhmMap": {},
+  "harNameOhmMap": {},
+  "packageManagerType": "ohpm",
+  "compileEntry": [],
+  "otherCompileFiles": [],
+  "dynamicImportLibInfo": {},
+  "routerMap": [],
+  "hspResourcesMap": {},
+  "updateVersionInfo": {},
+  "anBuildOutPut": "D:\\sourceCode\\HuaWei\\codelabs\\ToDoListArkTS\\entry\\build\\default\\intermediates\\loader_out\\default\\an\\arm64-v8a",
+  "anBuildMode": "type",
+  "patchConfig": {
+    "changedFileList": "D:\\sourceCode\\HuaWei\\codelabs\\ToDoListArkTS\\entry\\build\\default\\intermediates\\patch\\default\\changedFileList.json"
+  }
+}

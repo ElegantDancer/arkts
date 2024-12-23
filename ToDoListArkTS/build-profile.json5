@@ -1,0 +1,41 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\Freerain\\.ohos\\config\\default_ToDoListArkTS_-MwuEFZdnrCEECQ9Su1N6Q7ea3dPhVc1D78jfC0bz3Q=.cer",
+          "storePassword": "0000001BF16FA2907EC8DFA4C995B9BB9C9FC95B70CDD994DB0749238AB93651FF9304FF590F7271F8B727",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001BD93F817A2ECFF6F0518CA88C97E7340864AAC366C03F49AE7125C28E86C15901B654BC04881CA1",
+          "profile": "C:\\Users\\Freerain\\.ohos\\config\\default_ToDoListArkTS_-MwuEFZdnrCEECQ9Su1N6Q7ea3dPhVc1D78jfC0bz3Q=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\Freerain\\.ohos\\config\\default_ToDoListArkTS_-MwuEFZdnrCEECQ9Su1N6Q7ea3dPhVc1D78jfC0bz3Q=.p12"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "runtimeOS": "HarmonyOS"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

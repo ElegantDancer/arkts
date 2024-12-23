@@ -1,0 +1,13 @@
+{
+  "entry\\src\\main\\ets\\pages\\ToDoListPage.ets": [
+    "Column",
+    "Text",
+    "ForEach"
+  ],
+  "entry\\src\\main\\ets\\view\\ToDoItem.ets": [
+    "Image",
+    "Row",
+    "Text",
+    "If"
+  ]
+}
