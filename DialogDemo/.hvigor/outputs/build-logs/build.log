@@ -1,0 +1,1610 @@
+[2024-12-25T08:56:42.706] [DEBUG] debug-file - env: nodejsVersion=v18.20.1
+[2024-12-25T08:56:43.103] [DEBUG] debug-file - Hvigor init with startParameters:{
+  hvigorfileTypeCheck: false,
+  parallelExecution: true,
+  incrementalExecution: true,
+  printStackTrace: false,
+  daemon: false,
+  analyze: 0,
+  logLevel: Level { level: 20000, levelStr: 'INFO', colour: 'green' }
+}
+[2024-12-25T08:56:43.119] [DEBUG] debug-file - hvigorfile, resolving D:\sourceCode\HuaWei\codelabs\DialogDemo\hvigorfile.ts
+[2024-12-25T08:56:47.278] [DEBUG] debug-file - hvigorfile, require result:  { legacyAppTasks: [Getter] }
+[2024-12-25T08:56:47.418] [DEBUG] debug-file - Start initialize project's product build option map with build mode debug.
+[2024-12-25T08:56:47.432] [DEBUG] debug-file - Local scan or download hmscore sdk components toolchains,ets,native
+[2024-12-25T08:56:47.428] [DEBUG] debug-file - Local scan or download HarmonyOS sdk components toolchains,ets,js,native,previewer
+[2024-12-25T08:56:47.422] [DEBUG] debug-file - Product 'default' using build option: {
+  "debuggable": true
+} in this build.
+[2024-12-25T08:56:47.438] [DEBUG] debug-file - Start recording SDK configuration permission data.
+[2024-12-25T08:56:47.461] [DEBUG] debug-file - Sdk init in 36 ms 
+[2024-12-25T08:56:47.484] [DEBUG] debug-file - Project task initialization takes 22 ms 
+[2024-12-25T08:56:47.492] [DEBUG] debug-file - hvigorfile, resolving D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\hvigorfile.ts
+[2024-12-25T08:56:47.508] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=entry, buildMode=debug
+[2024-12-25T08:56:47.523] [DEBUG] debug-file - Since there is no instance or instance is terminated, create a new worker pool.
+[2024-12-25T08:56:47.542] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.538] [DEBUG] debug-file - Module entry Collected Dependency: 
+[2024-12-25T08:56:47.525] [DEBUG] debug-file - Create  resident worker with id: 0.
+[2024-12-25T08:56:47.545] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default"
+} in this build.
+[2024-12-25T08:56:47.550] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.553] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.555] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.557] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.560] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.566] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.572] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.582] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.576] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.588] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.585] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.592] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.599] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.605] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.608] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.610] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.614] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.620] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.622] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.625] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.629] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.635] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.640] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.633] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.649] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.654] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.660] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.668] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.674] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.680] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.685] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.694] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.700] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.705] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.711] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.713] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.715] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.717] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.720] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.723] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.726] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.729] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.735] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.731] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.740] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.743] [DEBUG] debug-file - project has submodules:entry
+[2024-12-25T08:56:47.755] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:42.708] [DEBUG] debug-file - env: hvigor-config.json5 content = { modelVersion: '5.0.0', dependencies: {} }
+[2024-12-25T08:56:47.761] [DEBUG] debug-file - Configuration phase cost:4 s 650 ms 
+[2024-12-25T08:56:47.758] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.763] [DEBUG] debug-file - Configuration task cost before running: 4 s 676 ms 
+[2024-12-25T08:56:43.104] [DEBUG] debug-file - Since current hvigor version 5.13.1 differs from last hvigor version 
+      undefined, delete file-cache.json and task-cache.json.
+[2024-12-25T08:56:47.781] [DEBUG] debug-file - entry : clean cost memory -8.5867919921875
+[2024-12-25T08:56:47.796] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default"
+} in this build.
+[2024-12-25T08:56:47.801] [DEBUG] debug-file - Create  resident worker with id: 0.
+[2024-12-25T08:56:47.279] [DEBUG] debug-file - hvigorfile, binding system plugins { legacyAppTasks: [Getter] }
+[2024-12-25T08:56:47.418] [DEBUG] debug-file - Picking option from product 'default' with build mode 'debug'.
+[2024-12-25T08:56:47.424] [DEBUG] debug-file - No signingConfig found, initRemoteHspCache failed.
+[2024-12-25T08:56:47.484] [DEBUG] debug-file - hvigorfile, resolve finished D:\sourceCode\HuaWei\codelabs\DialogDemo\hvigorfile.ts
+[2024-12-25T08:56:47.496] [DEBUG] debug-file - hvigorfile, require result:  { legacyHapTasks: [Getter] }
+[2024-12-25T08:56:47.508] [DEBUG] debug-file - Target 'default' config: {}
+[2024-12-25T08:56:47.523] [DEBUG] debug-file - Worker pool is initialized with config:  {
+  minPoolNum: 2,
+  maxPoolNum: undefined,
+  maxCoreSize: undefined,
+  cacheCapacity: undefined,
+  cacheTtl: undefined
+}
+[2024-12-25T08:56:47.542] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.539] [DEBUG] debug-file - Module entry's total dependency: 0
+[2024-12-25T08:56:47.526] [DEBUG] debug-file - Create  resident worker with id: 1.
+[2024-12-25T08:56:47.550] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.553] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.555] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.557] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.560] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.566] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.582] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.572] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.576] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.588] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.585] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.592] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.599] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.605] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.608] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.610] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.614] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.620] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.622] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.625] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.629] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.635] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.640] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.633] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.649] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.655] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.660] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.668] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.674] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.680] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.685] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.694] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.700] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.705] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.711] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.713] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.715] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.717] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.720] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.723] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.726] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.735] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.729] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.732] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.740] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.746] [DEBUG] debug-file - start to load updatedOhPackageInfo to the disk
+[2024-12-25T08:56:47.755] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:42.709] [DEBUG] debug-file - env: daemon=false
+[2024-12-25T08:56:47.758] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.763] [DEBUG] debug-file - Executing task :entry:clean
+[2024-12-25T08:56:43.105] [DEBUG] debug-file - Cache service initialization finished in 2 ms 
+[2024-12-25T08:56:47.781] [DEBUG] debug-file - runTaskFromQueue task cost before running: 4 s 694 ms 
+[2024-12-25T08:56:47.800] [DEBUG] debug-file - hvigor start cli arguments:{
+  prop: [ 'product=default' ],
+  sync: true,
+  parallel: true,
+  incremental: true,
+  daemon: false,
+  _: [],
+  analyze: 'normal'
+}
+[2024-12-25T08:56:47.801] [DEBUG] debug-file - Create  resident worker with id: 1.
+[2024-12-25T08:56:47.418] [DEBUG] debug-file - Product 'default' build option: {}
+[2024-12-25T08:56:47.497] [DEBUG] debug-file - hvigorfile, binding system plugins { legacyHapTasks: [Getter] }
+[2024-12-25T08:56:47.508] [DEBUG] debug-file - Module 'entry' target 'default' build option: {
+  "debuggable": true,
+  "copyFrom": "default"
+}
+[2024-12-25T08:56:47.539] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.542] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.528] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.550] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.553] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.555] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.557] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.560] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.566] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.582] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.572] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.576] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.588] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.585] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.592] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.599] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.605] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.608] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.610] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.614] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.620] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.622] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.625] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.629] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.635] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.640] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.633] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.649] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.655] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.660] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.668] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.674] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.680] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.685] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.694] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.700] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.705] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.711] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.713] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.715] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.717] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.720] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.723] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.726] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.735] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.729] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.732] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.740] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.755] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.749] [DEBUG] debug-file - load to the disk finished
+[2024-12-25T08:56:42.709] [DEBUG] debug-file - no-daemon, use the parent process.execArgv --max-old-space-size=8192,--expose-gc
+[2024-12-25T08:56:47.758] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.763] [DEBUG] debug-file - clean: Start terminating worker pool.
+[2024-12-25T08:56:47.782] [INFO] debug-file - Finished :entry:clean... after 18 ms 
+[2024-12-25T08:56:47.800] [DEBUG] debug-file - Since there is no instance or instance is terminated, create a new worker pool.
+[2024-12-25T08:56:47.802] [DEBUG] debug-file - Current worker pool is stopped or closed.
+[2024-12-25T08:56:47.418] [DEBUG] debug-file - End initialize project's product build option map with build mode 'debug'.
+[2024-12-25T08:56:47.508] [DEBUG] debug-file - End initialize module-target build option map, moduleName=entry
+[2024-12-25T08:56:47.539] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.528] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:56:47.562] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyPreviewProcessResource
+[2024-12-25T08:56:47.567] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyPreviewCompileResource
+[2024-12-25T08:56:47.573] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyProcessResource
+[2024-12-25T08:56:47.577] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyCompileResource
+[2024-12-25T08:56:47.740] [DEBUG] debug-file - Module entry task initialization takes 227 ms 
+[2024-12-25T08:56:47.756] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyProcessResource
+[2024-12-25T08:56:47.750] [DEBUG] debug-file - Module DialogDemo Collected Dependency: 
+[2024-12-25T08:56:47.763] [DEBUG] debug-file - Current worker pool is stopped or closed.
+[2024-12-25T08:56:47.759] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyCompileResource
+[2024-12-25T08:56:47.782] [DEBUG] debug-file - Executing task ::clean
+[2024-12-25T08:56:47.800] [DEBUG] debug-file - Worker pool is initialized with config:  {
+  minPoolNum: 2,
+  maxPoolNum: undefined,
+  maxCoreSize: undefined,
+  cacheCapacity: undefined,
+  cacheTtl: undefined
+}
+[2024-12-25T08:56:47.802] [DEBUG] debug-file - Clear worker 0.
+[2024-12-25T08:56:47.508] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default"
+} in this build.
+[2024-12-25T08:56:47.539] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.528] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:56:47.741] [DEBUG] debug-file - hvigorfile, resolve finished D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\hvigorfile.ts
+[2024-12-25T08:56:47.750] [DEBUG] debug-file - Module DialogDemo's total dependency: 0
+[2024-12-25T08:56:47.764] [DEBUG] debug-file - Clear worker 0.
+[2024-12-25T08:56:47.782] [DEBUG] debug-file - clean: Worker pool is inactive.
+[2024-12-25T08:56:47.802] [DEBUG] debug-file - Worker 0 has been cleared.
+[2024-12-25T08:56:47.764] [DEBUG] debug-file - Worker 0 has been cleared.
+[2024-12-25T08:56:47.752] [DEBUG] debug-file - Module entry Collected Dependency: 
+[2024-12-25T08:56:47.802] [DEBUG] debug-file - Current idle worker size: 1.
+[2024-12-25T08:56:47.783] [DEBUG] debug-file - DialogDemo : clean cost memory 0.027008056640625
+[2024-12-25T08:56:47.764] [DEBUG] debug-file - Current idle worker size: 1.
+[2024-12-25T08:56:47.752] [DEBUG] debug-file - Module entry's total dependency: 0
+[2024-12-25T08:56:47.802] [DEBUG] debug-file - Current busy worker size: 0.
+[2024-12-25T08:56:47.764] [DEBUG] debug-file - Current busy worker size: 0.
+[2024-12-25T08:56:47.783] [DEBUG] debug-file - runTaskFromQueue task cost before running: 4 s 696 ms 
+[2024-12-25T08:56:47.754] [DEBUG] debug-file - compile ArkTS with rollup
+[2024-12-25T08:56:47.802] [DEBUG] debug-file - Clear worker 1.
+[2024-12-25T08:56:47.764] [DEBUG] debug-file - Clear worker 1.
+[2024-12-25T08:56:47.783] [INFO] debug-file - Finished ::clean... after 1 ms 
+[2024-12-25T08:56:47.754] [DEBUG] debug-file - compile ace js with webpack
+[2024-12-25T08:56:47.802] [DEBUG] debug-file - Worker 1 has been cleared.
+[2024-12-25T08:56:47.764] [DEBUG] debug-file - Worker 1 has been cleared.
+[2024-12-25T08:56:47.783] [DEBUG] debug-file - Executing task :entry:init
+[2024-12-25T08:56:47.802] [DEBUG] debug-file - Current idle worker size: 0.
+[2024-12-25T08:56:47.764] [DEBUG] debug-file - Current idle worker size: 0.
+[2024-12-25T08:56:47.783] [DEBUG] debug-file - entry : init cost memory 0.01010894775390625
+[2024-12-25T08:56:47.802] [DEBUG] debug-file - Current busy worker size: 0.
+[2024-12-25T08:56:47.764] [DEBUG] debug-file - Current busy worker size: 0.
+[2024-12-25T08:56:47.783] [DEBUG] debug-file - runTaskFromQueue task cost before running: 4 s 696 ms 
+[2024-12-25T08:56:47.775] [DEBUG] debug-file - worker[1] exits with exit code 1.
+[2024-12-25T08:56:47.803] [DEBUG] debug-file - hvigor build process will be closed.
+[2024-12-25T08:56:47.783] [INFO] debug-file - Finished :entry:init... after 1 ms 
+[2024-12-25T08:56:47.775] [DEBUG] debug-file - worker[0] exits with exit code 1.
+[2024-12-25T08:56:47.803] [DEBUG] debug-file - Current worker pool is terminated.
+[2024-12-25T08:56:47.783] [DEBUG] debug-file - Executing task ::init
+[2024-12-25T08:56:47.776] [DEBUG] debug-file - Current worker pool is terminated.
+[2024-12-25T08:56:47.807] [DEBUG] debug-file - worker[0] exits with exit code 0.
+[2024-12-25T08:56:47.784] [DEBUG] debug-file - DialogDemo : init cost memory 0.00888824462890625
+[2024-12-25T08:56:47.776] [DEBUG] debug-file - clean: Terminating worker pool finished.
+[2024-12-25T08:56:47.807] [DEBUG] debug-file - worker[1] exits with exit code 0.
+[2024-12-25T08:56:47.784] [DEBUG] debug-file - runTaskFromQueue task cost before running: 4 s 697 ms 
+[2024-12-25T08:56:47.784] [INFO] debug-file - Finished ::init... after 1 ms 
+[2024-12-25T08:57:37.913] [DEBUG] debug-file - env: nodejsVersion=v18.20.1
+[2024-12-25T08:57:37.965] [DEBUG] debug-file - env: daemon=true
+[2024-12-25T08:57:37.914] [DEBUG] debug-file - env: hvigor-config.json5 content = { modelVersion: '5.0.0', dependencies: {} }
+[2024-12-25T08:57:38.612] [DEBUG] debug-file - hvigor start cli arguments:{
+  prop: [
+    'module=entry@default',
+    'product=default',
+    'requiredDeviceType=phone'
+  ],
+  mode: 'module',
+  parallel: true,
+  incremental: true,
+  daemon: true,
+  _: [ 'assembleHap', '--analyze=normal' ]
+}
+[2024-12-25T08:57:38.606] [DEBUG] debug-file - java daemon tryConnect failed Error: connect ECONNREFUSED 127.0.0.1:45050
+[2024-12-25T08:57:38.615] [DEBUG] debug-file - java daemon started at port 45050 pid 24532
+[2024-12-25T08:57:38.641] [DEBUG] debug-file - session manager: set active socket. socketId=J7VUdQVutb5KuTT7AAAB
+[2024-12-25T08:57:39.072] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2024-12-25T08:57:39.086] [DEBUG] debug-file - Hvigor init with startParameters:{
+  hvigorfileTypeCheck: false,
+  parallelExecution: true,
+  incrementalExecution: true,
+  printStackTrace: false,
+  daemon: true,
+  analyze: 0,
+  logLevel: Level { level: 20000, levelStr: 'INFO', colour: 'green' }
+}
+[2024-12-25T08:57:39.087] [DEBUG] debug-file - Cache service initialization finished in 2 ms 
+[2024-12-25T08:57:39.095] [DEBUG] debug-file - hvigorfile, resolving D:\sourceCode\HuaWei\codelabs\DialogDemo\hvigorfile.ts
+[2024-12-25T08:57:41.916] [DEBUG] debug-file - hvigorfile, require result:  {}
+[2024-12-25T08:57:41.917] [DEBUG] debug-file - hvigorfile, binding system plugins {}
+[2024-12-25T08:57:42.053] [DEBUG] debug-file - Start initialize project's product build option map with build mode debug.
+[2024-12-25T08:57:42.053] [DEBUG] debug-file - Picking option from product 'default' with build mode 'debug'.
+[2024-12-25T08:57:42.053] [DEBUG] debug-file - Product 'default' build option: {}
+[2024-12-25T08:57:42.053] [DEBUG] debug-file - End initialize project's product build option map with build mode 'debug'.
+[2024-12-25T08:57:42.056] [DEBUG] debug-file - Product 'default' using build option: {
+  "debuggable": true
+} in this build.
+[2024-12-25T08:57:42.058] [DEBUG] debug-file - No signingConfig found, initRemoteHspCache failed.
+[2024-12-25T08:57:42.060] [DEBUG] debug-file - Local scan or download HarmonyOS sdk components toolchains,ets,js,native,previewer
+[2024-12-25T08:57:42.063] [DEBUG] debug-file - Local scan or download hmscore sdk components toolchains,ets,native
+[2024-12-25T08:57:42.068] [DEBUG] debug-file - Start recording SDK configuration permission data.
+[2024-12-25T08:57:42.090] [DEBUG] debug-file - Sdk init in 32 ms 
+[2024-12-25T08:57:42.104] [DEBUG] debug-file - Project task initialization takes 14 ms 
+[2024-12-25T08:57:42.104] [DEBUG] debug-file - hvigorfile, resolve finished D:\sourceCode\HuaWei\codelabs\DialogDemo\hvigorfile.ts
+[2024-12-25T08:57:42.108] [DEBUG] debug-file - hvigorfile, resolving D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\hvigorfile.ts
+[2024-12-25T08:57:42.112] [DEBUG] debug-file - hvigorfile, require result:  {}
+[2024-12-25T08:57:42.112] [DEBUG] debug-file - hvigorfile, binding system plugins {}
+[2024-12-25T08:57:42.119] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=entry, buildMode=debug
+[2024-12-25T08:57:42.119] [DEBUG] debug-file - Target 'default' config: {}
+[2024-12-25T08:57:42.121] [DEBUG] debug-file - Module 'entry' target 'default' build option: {
+  "debuggable": true,
+  "copyFrom": "default"
+}
+[2024-12-25T08:57:42.121] [DEBUG] debug-file - End initialize module-target build option map, moduleName=entry
+[2024-12-25T08:57:42.121] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default"
+} in this build.
+[2024-12-25T08:57:42.129] [DEBUG] debug-file - Since there is no instance or instance is terminated, create a new worker pool.
+[2024-12-25T08:57:42.130] [DEBUG] debug-file - Worker pool is initialized with config:  {
+  minPoolNum: 2,
+  maxPoolNum: undefined,
+  maxCoreSize: undefined,
+  cacheCapacity: undefined,
+  cacheTtl: undefined
+}
+[2024-12-25T08:57:42.131] [DEBUG] debug-file - Create  resident worker with id: 0.
+[2024-12-25T08:57:42.132] [DEBUG] debug-file - Create  resident worker with id: 1.
+[2024-12-25T08:57:42.134] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.134] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.134] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.143] [DEBUG] debug-file - Module entry Collected Dependency: 
+[2024-12-25T08:57:42.143] [DEBUG] debug-file - Module entry's total dependency: 0
+[2024-12-25T08:57:42.144] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.144] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.144] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.146] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.147] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.147] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.149] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default"
+} in this build.
+[2024-12-25T08:57:42.152] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.152] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.152] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.154] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.154] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.154] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.156] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.156] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.156] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.158] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.158] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.158] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.160] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.160] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.160] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.161] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyPreviewProcessResource
+[2024-12-25T08:57:42.164] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.164] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.164] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.165] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyPreviewCompileResource
+[2024-12-25T08:57:42.171] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.171] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.171] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.172] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyProcessResource
+[2024-12-25T08:57:42.175] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.175] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.175] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.175] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyCompileResource
+[2024-12-25T08:57:42.178] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.178] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.178] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.179] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.179] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.179] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.181] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.181] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.182] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.183] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.183] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.184] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.187] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.188] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.188] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.191] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.191] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.191] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.193] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.193] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.193] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.194] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.194] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.195] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.198] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.198] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.198] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.204] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.204] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.205] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.206] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.207] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.207] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.208] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.208] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.208] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.211] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.211] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.211] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.214] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.214] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.214] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.216] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.216] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.216] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.222] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.222] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.222] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.228] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.228] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.228] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.233] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.234] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.234] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.238] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.238] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.238] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.242] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.243] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.243] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.247] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.247] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.247] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.252] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.252] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.252] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.256] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.256] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.256] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.261] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.261] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.261] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.267] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.267] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.267] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.272] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.272] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.272] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.278] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.278] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.278] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.280] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.280] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.280] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.282] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.282] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.282] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.284] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.284] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.284] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.286] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.286] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.286] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.289] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.289] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.289] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.292] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.292] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.292] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.295] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.296] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.296] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.297] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.297] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.297] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.299] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.299] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.299] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.303] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.303] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.303] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.304] [DEBUG] debug-file - Module entry task initialization takes 180 ms 
+[2024-12-25T08:57:42.304] [DEBUG] debug-file - hvigorfile, resolve finished D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\hvigorfile.ts
+[2024-12-25T08:57:42.323] [DEBUG] debug-file - hvigorfile, resolve hvigorfile dependencies in 18 ms 
+[2024-12-25T08:57:42.324] [DEBUG] debug-file - project has submodules:entry
+[2024-12-25T08:57:42.327] [DEBUG] debug-file - start to load updatedOhPackageInfo to the disk
+[2024-12-25T08:57:42.333] [DEBUG] debug-file - load to the disk finished
+[2024-12-25T08:57:42.335] [DEBUG] debug-file - Module DialogDemo Collected Dependency: 
+[2024-12-25T08:57:42.335] [DEBUG] debug-file - Module DialogDemo's total dependency: 0
+[2024-12-25T08:57:42.337] [DEBUG] debug-file - Module entry Collected Dependency: 
+[2024-12-25T08:57:42.337] [DEBUG] debug-file - Module entry's total dependency: 0
+[2024-12-25T08:57:42.338] [DEBUG] debug-file - compile ArkTS with rollup
+[2024-12-25T08:57:42.339] [DEBUG] debug-file - compile ace js with webpack
+[2024-12-25T08:57:42.340] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.340] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.340] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.341] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyProcessResource
+[2024-12-25T08:57:42.343] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.343] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:57:42.343] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:57:42.343] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyCompileResource
+[2024-12-25T08:57:42.345] [DEBUG] debug-file - Configuration phase cost:3 s 255 ms 
+[2024-12-25T08:57:42.347] [DEBUG] debug-file - Configuration task cost before running: 3 s 272 ms 
+[2024-12-25T08:57:42.348] [DEBUG] debug-file - Executing task :entry:default@LegacyPreBuild
+[2024-12-25T08:57:42.463] [DEBUG] debug-file - Use tool [win32: JAVA_HOME, CLASSPATH]
+ [
+  { JAVA_HOME: 'D:\\ProgramsFiles\\HuaWei\\DevEco Studio\\jbr' },
+  { CLASSPATH: undefined }
+]
+[2024-12-25T08:57:42.463] [DEBUG] debug-file - Use tool [win32: NODE_HOME]
+ [
+  {
+    NODE_HOME: 'D:\\ProgramsFiles\\HuaWei\\DevEco Studio\\tools\\node'
+  }
+]
+[2024-12-25T08:57:42.463] [DEBUG] debug-file - entry : default@LegacyPreBuild cost memory 11.529289245605469
+[2024-12-25T08:57:42.463] [DEBUG] debug-file - runTaskFromQueue task cost before running: 3 s 388 ms 
+[2024-12-25T08:57:42.464] [INFO] debug-file - Finished :entry:default@LegacyPreBuild... after 116 ms 
+[2024-12-25T08:57:42.465] [DEBUG] debug-file - Executing task :entry:default@LegacyGenerateMetadata
+[2024-12-25T08:57:42.466] [DEBUG] debug-file - Task 'entry:default@LegacyGenerateMetadata' cost while wrapping incremental declarations: 2 ms 
+[2024-12-25T08:57:42.469] [DEBUG] debug-file - entry : default@LegacyGenerateMetadata cost memory 0.08472442626953125
+[2024-12-25T08:57:42.469] [DEBUG] debug-file - runTaskFromQueue task cost before running: 3 s 393 ms 
+[2024-12-25T08:57:42.469] [INFO] debug-file - Finished :entry:default@LegacyGenerateMetadata... after 4 ms 
+[2024-12-25T08:57:42.469] [DEBUG] debug-file - Executing task :entry:default@PreCheckSyscap
+[2024-12-25T08:57:42.469] [DEBUG] debug-file - entry : default@PreCheckSyscap cost memory 0.01329803466796875
+[2024-12-25T08:57:42.469] [DEBUG] debug-file - runTaskFromQueue task cost before running: 3 s 394 ms 
+[2024-12-25T08:57:42.469] [INFO] debug-file - Finished :entry:default@PreCheckSyscap... after 1 ms 
+[2024-12-25T08:57:42.469] [DEBUG] debug-file - Executing task :entry:default@LegacyMergeProfile
+[2024-12-25T08:57:42.470] [DEBUG] debug-file - Use cli appEnvironment
+[2024-12-25T08:57:42.470] [DEBUG] debug-file - Change app target API version with '50001013'
+[2024-12-25T08:57:42.470] [DEBUG] debug-file - Change app minimum API version with '50000012'
+[2024-12-25T08:57:42.470] [DEBUG] debug-file - Change app releaseType with 'Release'
+[2024-12-25T08:57:42.471] [DEBUG] debug-file - entry : default@LegacyMergeProfile cost memory 0.1089935302734375
+[2024-12-25T08:57:42.471] [DEBUG] debug-file - runTaskFromQueue task cost before running: 3 s 396 ms 
+[2024-12-25T08:57:42.471] [INFO] debug-file - Finished :entry:default@LegacyMergeProfile... after 2 ms 
+[2024-12-25T08:57:42.472] [DEBUG] debug-file - Executing task :entry:default@LegacyGenerateJsManifest
+[2024-12-25T08:57:42.473] [DEBUG] debug-file - Use tool [JsManifest]
+ {
+  appID: 'c***o',
+  versionName: '1.0.0',
+  versionCode: 1000000,
+  minPlatformVersion: 12,
+  appName: '.MainAbility',
+  deviceType: [ 'phone', 'tablet' ],
+  window: { designWidth: 720, autoDesignWidth: false },
+  pages: [ 'pages/index/index' ]
+}
+[2024-12-25T08:57:42.474] [DEBUG] debug-file - entry : default@LegacyGenerateJsManifest cost memory 0.13985443115234375
+[2024-12-25T08:57:42.475] [DEBUG] debug-file - runTaskFromQueue task cost before running: 3 s 399 ms 
+[2024-12-25T08:57:42.475] [INFO] debug-file - Finished :entry:default@LegacyGenerateJsManifest... after 4 ms 
+[2024-12-25T08:57:42.475] [DEBUG] debug-file - Executing task :entry:default@BuildNativeWithCmake
+[2024-12-25T08:57:42.475] [DEBUG] debug-file - entry : default@BuildNativeWithCmake cost memory 0.01422882080078125
+[2024-12-25T08:57:42.475] [DEBUG] debug-file - runTaskFromQueue task cost before running: 3 s 400 ms 
+[2024-12-25T08:57:42.475] [INFO] debug-file - Finished :entry:default@BuildNativeWithCmake... after 1 ms 
+[2024-12-25T08:57:42.476] [DEBUG] debug-file - Executing task :entry:default@LegacySyscapTransform
+[2024-12-25T08:57:42.476] [DEBUG] debug-file - File: 'D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\src\main\syscap.json' from 'sysCapJsonPath' is not exists, just ignore.
+[2024-12-25T08:57:42.476] [DEBUG] debug-file - Task 'entry:default@LegacySyscapTransform' cost while wrapping incremental declarations: 1 ms 
+[2024-12-25T08:57:42.477] [DEBUG] debug-file - entry : default@LegacySyscapTransform cost memory 0.05500030517578125
+[2024-12-25T08:57:42.477] [DEBUG] debug-file - runTaskFromQueue task cost before running: 3 s 401 ms 
+[2024-12-25T08:57:42.477] [INFO] debug-file - Finished :entry:default@LegacySyscapTransform... after 2 ms 
+[2024-12-25T08:57:42.477] [DEBUG] debug-file - Executing task :entry:default@LegacyMakePackInfo
+[2024-12-25T08:57:42.479] [DEBUG] debug-file - Module Pack Info:  {
+  summary: {
+    app: { bundleName: 'c***o', version: [Object] },
+    modules: [ [Object] ]
+  },
+  packages: [
+    {
+      deviceType: [Array],
+      moduleType: 'entry',
+      deliveryWithInstall: true,
+      name: 'entry-default'
+    }
+  ]
+}
+[2024-12-25T08:57:42.480] [DEBUG] debug-file - entry : default@LegacyMakePackInfo cost memory 0.12053680419921875
+[2024-12-25T08:57:42.480] [DEBUG] debug-file - runTaskFromQueue task cost before running: 3 s 404 ms 
+[2024-12-25T08:57:42.480] [INFO] debug-file - Finished :entry:default@LegacyMakePackInfo... after 3 ms 
+[2024-12-25T08:57:42.481] [DEBUG] debug-file - Executing task :entry:default@LegacyProcessProfile
+[2024-12-25T08:57:42.482] [DEBUG] debug-file - [
+  'D:\\ProgramsFiles\\HuaWei\\DevEco Studio\\tools\\node\\node.exe',
+  'D:\\ProgramsFiles\\HuaWei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\build-tools\\ets-loader\\bin\\ark\\ts2abc.js',
+  '--target-api-version',
+  '12',
+  '--target-api-sub-version',
+  'beta1'
+]
+[2024-12-25T08:57:42.550] [DEBUG] debug-file - 12.0.2.0
+[2024-12-25T08:57:42.552] [DEBUG] debug-file - entry : default@LegacyProcessProfile cost memory 1.99432373046875
+[2024-12-25T08:57:42.552] [DEBUG] debug-file - runTaskFromQueue task cost before running: 3 s 476 ms 
+[2024-12-25T08:57:42.552] [INFO] debug-file - Finished :entry:default@LegacyProcessProfile... after 72 ms 
+[2024-12-25T08:57:42.552] [DEBUG] debug-file - Executing task :entry:default@LegacyGenerateLoaderJson
+[2024-12-25T08:57:42.554] [DEBUG] debug-file - entry : default@LegacyGenerateLoaderJson cost memory 0.0477294921875
+[2024-12-25T08:57:42.554] [DEBUG] debug-file - runTaskFromQueue task cost before running: 3 s 478 ms 
+[2024-12-25T08:57:42.554] [INFO] debug-file - Finished :entry:default@LegacyGenerateLoaderJson... after 2 ms 
+[2024-12-25T08:57:42.554] [DEBUG] debug-file - Executing task :entry:default@BuildNativeWithNinja
+[2024-12-25T08:57:42.555] [DEBUG] debug-file - entry : default@BuildNativeWithNinja cost memory 0.03830718994140625
+[2024-12-25T08:57:42.556] [DEBUG] debug-file - runTaskFromQueue task cost before running: 3 s 480 ms 
+[2024-12-25T08:57:42.556] [INFO] debug-file - Finished :entry:default@BuildNativeWithNinja... after 2 ms 
+[2024-12-25T08:57:42.557] [DEBUG] debug-file - Executing task :entry:default@LegacyProcessResource
+[2024-12-25T08:57:42.574] [DEBUG] debug-file - entry : default@LegacyProcessResource cost memory 0.07183074951171875
+[2024-12-25T08:57:42.575] [DEBUG] debug-file - runTaskFromQueue task cost before running: 3 s 499 ms 
+[2024-12-25T08:57:42.576] [INFO] debug-file - Finished :entry:default@LegacyProcessResource... after 19 ms 
+[2024-12-25T08:57:42.576] [DEBUG] debug-file - Executing task :entry:default@ProcessLibs
+[2024-12-25T08:57:42.585] [DEBUG] debug-file - default@ProcessLibs work[0] is submitted.
+[2024-12-25T08:57:42.586] [DEBUG] debug-file - default@ProcessLibs work[0] is pushed to ready queue.
+[2024-12-25T08:57:42.586] [DEBUG] debug-file - A work dispatched to worker[11] failed because unable to get work from ready queue.
+[2024-12-25T08:57:42.586] [DEBUG] debug-file - Create  resident worker with id: 10.
+[2024-12-25T08:57:42.587] [DEBUG] debug-file - default@ProcessLibs work[0] has been dispatched to worker[10].
+[2024-12-25T08:57:42.587] [DEBUG] debug-file - default@ProcessLibs work[0] is dispatched.
+[2024-12-25T08:57:42.587] [DEBUG] debug-file - entry : default@ProcessLibs cost memory 1.0190582275390625
+[2024-12-25T08:57:42.587] [DEBUG] debug-file - Executing task :entry:default@LegacyCompileResource
+[2024-12-25T08:57:42.588] [DEBUG] debug-file - Use tool [D:\ProgramsFiles\HuaWei\DevEco Studio\sdk\default\openharmony\toolchains\restool.exe]
+ [
+  'D:\\ProgramsFiles\\HuaWei\\DevEco Studio\\sdk\\default\\openharmony\\toolchains\\restool.exe',
+  '-l',
+  'D:\\sourceCode\\HuaWei\\codelabs\\DialogDemo\\entry\\build\\default\\intermediates\\res\\default\\resConfig.json'
+]
+[2024-12-25T08:57:42.590] [DEBUG] debug-file - current process  memoryUsage: {
+  rss: 217976832,
+  heapTotal: 138334208,
+  heapUsed: 114459472,
+  external: 3016860,
+  arrayBuffers: 272366
+} os memoryUsage :22.231197357177734
+[2024-12-25T08:57:42.722] [DEBUG] debug-file - Info: scale icon is not enable.
+
+[2024-12-25T08:57:42.723] [DEBUG] debug-file - Info: restool resources compile success.
+
+[2024-12-25T08:57:42.726] [DEBUG] debug-file - entry : default@LegacyCompileResource cost memory 0.5832672119140625
+[2024-12-25T08:57:42.726] [DEBUG] debug-file - runTaskFromQueue task cost before running: 3 s 651 ms 
+[2024-12-25T08:57:42.726] [INFO] debug-file - Finished :entry:default@LegacyCompileResource... after 139 ms 
+[2024-12-25T08:57:42.726] [DEBUG] debug-file - Executing task :entry:default@LegacyHookCompileResource
+[2024-12-25T08:57:42.726] [DEBUG] debug-file - entry : default@LegacyHookCompileResource cost memory 0.0146026611328125
+[2024-12-25T08:57:42.726] [DEBUG] debug-file - runTaskFromQueue task cost before running: 3 s 651 ms 
+[2024-12-25T08:57:42.727] [INFO] debug-file - Finished :entry:default@LegacyHookCompileResource... after 1 ms 
+[2024-12-25T08:57:42.727] [DEBUG] debug-file - Executing task :entry:default@LegacyCompileArkTS
+[2024-12-25T08:57:42.729] [DEBUG] debug-file - entry : default@LegacyCompileArkTS cost memory 0.06395721435546875
+[2024-12-25T08:57:42.729] [DEBUG] debug-file - runTaskFromQueue task cost before running: 3 s 654 ms 
+[2024-12-25T08:57:42.730] [INFO] debug-file - Finished :entry:default@LegacyCompileArkTS... after 3 ms 
+[2024-12-25T08:57:42.730] [DEBUG] debug-file - Executing task :entry:default@LegacyBuildJS
+[2024-12-25T08:57:42.735] [DEBUG] debug-file - Use tool [NodeEnv]
+ {
+  path: 'D:\\ProgramsFiles\\HuaWei\\DevEco Studio\\tools\\node',
+  watchMode: 'false',
+  abilityType: 'page',
+  aceManifestPath: 'D:\\sourceCode\\HuaWei\\codelabs\\DialogDemo\\entry\\build\\default\\intermediates\\manifest\\default\\MainAbility\\manifest.json',
+  appResource: 'D:\\sourceCode\\HuaWei\\codelabs\\DialogDemo\\entry\\build\\default\\intermediates\\res\\default\\ResourceTable.txt',
+  rawFileResource: 'D:\\sourceCode\\HuaWei\\codelabs\\DialogDemo\\entry\\build\\default\\intermediates\\res\\default\\resources\\rawfile',
+  aceModuleRoot: 'D:\\sourceCode\\HuaWei\\codelabs\\DialogDemo\\entry\\src\\main\\js\\MainAbility',
+  aceModuleBuild: 'D:\\sourceCode\\HuaWei\\codelabs\\DialogDemo\\entry\\build\\default\\intermediates\\loader_out\\default\\js\\MainAbility',
+  cachePath: 'D:\\sourceCode\\HuaWei\\codelabs\\DialogDemo\\entry\\build\\default\\cache\\default\\default@LegacyBuildJS\\jsbundle\\debug\\MainAbility',
+  aceSuperVisualPath: 'D:\\sourceCode\\HuaWei\\codelabs\\DialogDemo\\entry\\src\\main\\supervisual\\MainAbility',
+  aceBuildJson: 'D:\\sourceCode\\HuaWei\\codelabs\\DialogDemo\\entry\\build\\default\\intermediates\\loader\\default\\MainAbility\\loader.json',
+  runtimeOS: 'HarmonyOS',
+  sdkInfo: 'false:13:5.0.1.112:Release'
+}
+[2024-12-25T08:57:42.736] [DEBUG] debug-file - Use tool [JS-loader]
+ [
+  'D:\\ProgramsFiles\\HuaWei\\DevEco Studio\\tools\\node\\node.exe',
+  '--openssl-legacy-provider',
+  './node_modules/webpack/bin/webpack.js',
+  '--config',
+  'webpack.rich.config.js',
+  '--env',
+  'buildMode=debug',
+  'compilerType=ark'
+]
+[2024-12-25T08:57:42.737] [DEBUG] debug-file - default@LegacyBuildJS work[1] is submitted.
+[2024-12-25T08:57:42.737] [DEBUG] debug-file - default@LegacyBuildJS work[1] is pushed to ready queue.
+[2024-12-25T08:57:42.737] [DEBUG] debug-file - A work dispatched to worker[11] failed because unable to get work from ready queue.
+[2024-12-25T08:57:42.737] [DEBUG] debug-file - A work dispatched to worker[10] failed because of worker busy.
+[2024-12-25T08:57:42.737] [DEBUG] debug-file - A work dispatched to worker[9] failed because unable to get work from ready queue.
+[2024-12-25T08:57:42.737] [DEBUG] debug-file - A work dispatched to worker[8] failed because unable to get work from ready queue.
+[2024-12-25T08:57:42.737] [DEBUG] debug-file - A work dispatched to worker[7] failed because unable to get work from ready queue.
+[2024-12-25T08:57:42.737] [DEBUG] debug-file - A work dispatched to worker[6] failed because unable to get work from ready queue.
+[2024-12-25T08:57:42.737] [DEBUG] debug-file - A work dispatched to worker[5] failed because unable to get work from ready queue.
+[2024-12-25T08:57:42.737] [DEBUG] debug-file - A work dispatched to worker[4] failed because unable to get work from ready queue.
+[2024-12-25T08:57:42.737] [DEBUG] debug-file - A work dispatched to worker[3] failed because unable to get work from ready queue.
+[2024-12-25T08:57:42.738] [DEBUG] debug-file - A work dispatched to worker[2] failed because unable to get work from ready queue.
+[2024-12-25T08:57:42.738] [DEBUG] debug-file - default@LegacyBuildJS work[1] has been dispatched to worker[1].
+[2024-12-25T08:57:42.738] [DEBUG] debug-file - default@LegacyBuildJS work[1] is dispatched.
+[2024-12-25T08:57:42.738] [DEBUG] debug-file - entry : default@LegacyBuildJS cost memory 0.5842666625976562
+[2024-12-25T08:57:43.339] [DEBUG] debug-file - current process  memoryUsage: {
+  rss: 347389952,
+  heapTotal: 74440704,
+  heapUsed: 47520416,
+  external: 13204537,
+  arrayBuffers: 11152235
+} os memoryUsage :22.277095794677734
+[2024-12-25T08:57:43.405] [DEBUG] debug-file - worker[10] has one work done.
+[2024-12-25T08:57:43.406] [DEBUG] debug-file - default@ProcessLibs work[0] done.
+[2024-12-25T08:57:43.406] [DEBUG] debug-file - A work dispatched to worker[10] failed because unable to get work from ready queue.
+[2024-12-25T08:57:43.407] [INFO] debug-file - Finished :entry:default@ProcessLibs... after 15 ms 
+[2024-12-25T08:57:43.407] [DEBUG] debug-file - Executing task :entry:default@DoNativeStrip
+[2024-12-25T08:57:43.407] [DEBUG] debug-file - Task 'entry:default@DoNativeStrip' cost while wrapping incremental declarations: 1 ms 
+[2024-12-25T08:57:43.408] [DEBUG] debug-file - default@DoNativeStrip work[2] is submitted.
+[2024-12-25T08:57:43.409] [DEBUG] debug-file - default@DoNativeStrip work[2] is pushed to ready queue.
+[2024-12-25T08:57:43.409] [DEBUG] debug-file - A work dispatched to worker[11] failed because unable to get work from ready queue.
+[2024-12-25T08:57:43.409] [DEBUG] debug-file - default@DoNativeStrip work[2] has been dispatched to worker[10].
+[2024-12-25T08:57:43.409] [DEBUG] debug-file - default@DoNativeStrip work[2] is dispatched.
+[2024-12-25T08:57:43.409] [DEBUG] debug-file - entry : default@DoNativeStrip cost memory 0.16851043701171875
+[2024-12-25T08:57:43.421] [DEBUG] debug-file - worker[10] has one work done.
+[2024-12-25T08:57:43.421] [DEBUG] debug-file - default@DoNativeStrip work[2] done.
+[2024-12-25T08:57:43.421] [DEBUG] debug-file - A work dispatched to worker[10] failed because unable to get work from ready queue.
+[2024-12-25T08:57:43.421] [INFO] debug-file - Finished :entry:default@DoNativeStrip... after 9 ms 
+[2024-12-25T08:57:43.422] [DEBUG] debug-file - Executing task :entry:default@CacheNativeLibs
+[2024-12-25T08:57:43.422] [DEBUG] debug-file - Task 'entry:default@CacheNativeLibs' cost while wrapping incremental declarations: 1 ms 
+[2024-12-25T08:57:43.422] [DEBUG] debug-file - default@CacheNativeLibs work[3] is submitted.
+[2024-12-25T08:57:43.423] [DEBUG] debug-file - default@CacheNativeLibs work[3] is pushed to ready queue.
+[2024-12-25T08:57:43.423] [DEBUG] debug-file - A work dispatched to worker[11] failed because unable to get work from ready queue.
+[2024-12-25T08:57:43.423] [DEBUG] debug-file - default@CacheNativeLibs work[3] has been dispatched to worker[10].
+[2024-12-25T08:57:43.423] [DEBUG] debug-file - default@CacheNativeLibs work[3] is dispatched.
+[2024-12-25T08:57:43.423] [DEBUG] debug-file - entry : default@CacheNativeLibs cost memory 0.15563201904296875
+[2024-12-25T08:57:45.907] [DEBUG] debug-file - worker[10] has one work done.
+[2024-12-25T08:57:45.907] [DEBUG] debug-file - default@CacheNativeLibs work[3] done.
+[2024-12-25T08:57:45.907] [DEBUG] debug-file - A work dispatched to worker[10] failed because unable to get work from ready queue.
+[2024-12-25T08:57:45.907] [INFO] debug-file - Finished :entry:default@CacheNativeLibs... after 21 ms 
+[2024-12-25T08:57:51.016] [DEBUG] debug-file - gen abc cmd is:  "D:\ProgramsFiles\HuaWei\DevEco Studio\sdk\default\openharmony\js\build-tools\ace-loader\bin\ark\build-win\bin\es2abc.exe" --debug-info "@D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\cache\default\default@LegacyBuildJS\jsbundle\debug\MainAbility\filesInfo.txt" --file-threads "12"
+
+[2024-12-25T08:57:51.017] [DEBUG] debug-file -  NOTE File:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\src\main\js\MainAbility\pages\index\index.css:78:5
+ Value `row` is the default value of the `flex-direction` attribute (the value can be removed). [39m 
+
+ NOTE File:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\src\main\js\MainAbility\pages\index\index.css:86:5
+ Value `row` is the default value of the `flex-direction` attribute (the value can be removed). [39m 
+
+ NOTE File:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\src\main\js\MainAbility\pages\index\index.css:102:5
+ Value `row` is the default value of the `flex-direction` attribute (the value can be removed). [39m 
+
+ NOTE File:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\src\main\js\MainAbility\pages\index\index.css:110:5
+ Value `row` is the default value of the `flex-direction` attribute (the value can be removed). [39m 
+
+ NOTE File:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\src\main\js\MainAbility\pages\index\index.css:143:5
+ Attribute value `#999` is automatically fixed to `#999999`. [39m 
+
+ NOTE File:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\src\main\js\MainAbility\pages\index\index.css:153:5
+ Value `row` is the default value of the `flex-direction` attribute (the value can be removed). [39m 
+
+[34m COMPILE RESULT:SUCCESS {"NOTE":6} [39m
+
+[2024-12-25T08:57:53.448] [DEBUG] debug-file - worker[1] has one work done.
+[2024-12-25T08:57:53.449] [DEBUG] debug-file - default@LegacyBuildJS work[1] done.
+[2024-12-25T08:57:53.449] [DEBUG] debug-file - A work dispatched to worker[1] failed because unable to get work from ready queue.
+[2024-12-25T08:57:53.450] [INFO] debug-file - Finished :entry:default@LegacyBuildJS... after 10 s 122 ms 
+[2024-12-25T08:57:53.450] [DEBUG] debug-file - Executing task :entry:default@LegacyProcessNodeAssets
+[2024-12-25T08:57:53.471] [DEBUG] debug-file - entry : default@LegacyProcessNodeAssets cost memory 0.8280181884765625
+[2024-12-25T08:57:53.472] [DEBUG] debug-file - runTaskFromQueue task cost before running: 14 s 396 ms 
+[2024-12-25T08:57:53.472] [INFO] debug-file - Finished :entry:default@LegacyProcessNodeAssets... after 22 ms 
+[2024-12-25T08:57:53.472] [DEBUG] debug-file - Executing task :entry:default@LegacyPackageHap
+[2024-12-25T08:57:53.481] [DEBUG] debug-file - Use tool [PackageHap]
+ [
+  'java',
+  '-Dfile.encoding=GBK',
+  '-jar',
+  'D:\\ProgramsFiles\\HuaWei\\DevEco Studio\\sdk\\default\\openharmony\\toolchains\\lib\\app_packing_tool.jar',
+  '--mode',
+  'hap',
+  '--force',
+  'true',
+  '--lib-path',
+  'D:\\sourceCode\\HuaWei\\codelabs\\DialogDemo\\entry\\build\\default\\intermediates\\libs\\default',
+  '--json-path',
+  'D:\\sourceCode\\HuaWei\\codelabs\\DialogDemo\\entry\\build\\default\\intermediates\\res\\default\\config.json',
+  '--resources-path',
+  'D:\\sourceCode\\HuaWei\\codelabs\\DialogDemo\\entry\\build\\default\\intermediates\\res\\default\\resources',
+  '--assets-path',
+  'D:\\sourceCode\\HuaWei\\codelabs\\DialogDemo\\entry\\build\\default\\intermediates\\assets_jsbundle\\default',
+  '--index-path',
+  'D:\\sourceCode\\HuaWei\\codelabs\\DialogDemo\\entry\\build\\default\\intermediates\\res\\default\\resources.index',
+  '--pack-info-path',
+  'D:\\sourceCode\\HuaWei\\codelabs\\DialogDemo\\entry\\build\\default\\outputs\\default\\pack.info',
+  '--out-path',
+  'D:\\sourceCode\\HuaWei\\codelabs\\DialogDemo\\entry\\build\\default\\outputs\\default\\entry-default-unsigned.hap'
+]
+[2024-12-25T08:57:53.482] [DEBUG] debug-file - default@LegacyPackageHap work[4] is submitted.
+[2024-12-25T08:57:53.483] [DEBUG] debug-file - default@LegacyPackageHap work[4] is pushed to ready queue.
+[2024-12-25T08:57:53.483] [DEBUG] debug-file - A work dispatched to worker[11] failed because unable to get work from ready queue.
+[2024-12-25T08:57:53.483] [DEBUG] debug-file - default@LegacyPackageHap work[4] has been dispatched to worker[10].
+[2024-12-25T08:57:53.483] [DEBUG] debug-file - default@LegacyPackageHap work[4] is dispatched.
+[2024-12-25T08:57:53.483] [DEBUG] debug-file - entry : default@LegacyPackageHap cost memory -6.6238555908203125
+[2024-12-25T08:57:53.486] [DEBUG] debug-file - current process  memoryUsage: {
+  rss: 317120512,
+  heapTotal: 69185536,
+  heapUsed: 64819288,
+  external: 4032172,
+  arrayBuffers: 67632
+} os memoryUsage :22.20550537109375
+[2024-12-25T08:57:53.806] [DEBUG] debug-file - worker[10] has one work done.
+[2024-12-25T08:57:53.806] [DEBUG] debug-file - default@LegacyPackageHap work[4] done.
+[2024-12-25T08:57:53.806] [DEBUG] debug-file - A work dispatched to worker[10] failed because unable to get work from ready queue.
+[2024-12-25T08:57:53.806] [INFO] debug-file - Finished :entry:default@LegacyPackageHap... after 334 ms 
+[2024-12-25T08:57:53.807] [DEBUG] debug-file - Executing task :entry:default@SignHap
+[2024-12-25T08:57:53.807] [WARN] debug-file - Will skip sign 'hos_hap'. No signingConfigs profile is configured in current project.
+             If needed, configure the signingConfigs in D:\sourceCode\HuaWei\codelabs\DialogDemo\build-profile.json5.
+[2024-12-25T08:57:53.808] [DEBUG] debug-file - entry : default@SignHap cost memory 0.05741119384765625
+[2024-12-25T08:57:53.808] [DEBUG] debug-file - runTaskFromQueue task cost before running: 14 s 733 ms 
+[2024-12-25T08:57:53.809] [INFO] debug-file - Finished :entry:default@SignHap... after 2 ms 
+[2024-12-25T08:57:53.809] [DEBUG] debug-file - Executing task :entry:assembleHap
+[2024-12-25T08:57:53.809] [DEBUG] debug-file - entry : assembleHap cost memory 0.01190185546875
+[2024-12-25T08:57:53.809] [DEBUG] debug-file - runTaskFromQueue task cost before running: 14 s 734 ms 
+[2024-12-25T08:57:53.809] [INFO] debug-file - Finished :entry:assembleHap... after 1 ms 
+[2024-12-25T08:57:53.818] [DEBUG] debug-file - BUILD SUCCESSFUL in 14 s 743 ms 
+[2024-12-25T08:57:53.819] [DEBUG] debug-file - Update task entry:default@LegacyPreBuild input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\src\main\config.json cache by regenerate.
+[2024-12-25T08:57:53.820] [DEBUG] debug-file - Update task entry:default@LegacyPreBuild input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\oh-package.json5 cache by regenerate.
+[2024-12-25T08:57:53.820] [DEBUG] debug-file - Update task entry:default@LegacyPreBuild input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\build-profile.json5 cache by regenerate.
+[2024-12-25T08:57:53.820] [DEBUG] debug-file - Update task entry:default@LegacyPreBuild input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build-profile.json5 cache by regenerate.
+[2024-12-25T08:57:53.821] [DEBUG] debug-file - Incremental task entry:default@LegacyPreBuild post-execution cost:2 ms .
+[2024-12-25T08:57:53.821] [DEBUG] debug-file - Update task entry:default@LegacyGenerateMetadata input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\src\main\config.json cache by regenerate.
+[2024-12-25T08:57:53.821] [DEBUG] debug-file - Update task entry:default@LegacyGenerateMetadata output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\hap_metadata\default\output_metadata.json cache.
+[2024-12-25T08:57:53.821] [DEBUG] debug-file - Incremental task entry:default@LegacyGenerateMetadata post-execution cost:1 ms .
+[2024-12-25T08:57:53.821] [DEBUG] debug-file - Update task entry:default@LegacyMergeProfile input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\src\main\config.json cache by regenerate.
+[2024-12-25T08:57:53.821] [DEBUG] debug-file - Update task entry:default@LegacyMergeProfile output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\merge_profile\default\config.json cache.
+[2024-12-25T08:57:53.822] [DEBUG] debug-file - Incremental task entry:default@LegacyMergeProfile post-execution cost:1 ms .
+[2024-12-25T08:57:53.822] [DEBUG] debug-file - Update task entry:default@LegacyGenerateJsManifest output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\manifest\default cache.
+[2024-12-25T08:57:53.823] [DEBUG] debug-file - Incremental task entry:default@LegacyGenerateJsManifest post-execution cost:2 ms .
+[2024-12-25T08:57:53.823] [DEBUG] debug-file - Update task entry:default@LegacySyscapTransform input file:D:\ProgramsFiles\HuaWei\DevEco Studio\sdk\default\openharmony\toolchains\syscap_tool.exe cache by regenerate.
+[2024-12-25T08:57:53.823] [DEBUG] debug-file - Update task entry:default@LegacySyscapTransform input file:D:\ProgramsFiles\HuaWei\DevEco Studio\sdk\default\openharmony\ets\api\device-define cache by regenerate.
+[2024-12-25T08:57:53.833] [DEBUG] debug-file - Update task entry:default@LegacySyscapTransform output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\syscap\default\rpcid.sc cache.
+[2024-12-25T08:57:53.834] [DEBUG] debug-file - Incremental task entry:default@LegacySyscapTransform post-execution cost:11 ms .
+[2024-12-25T08:57:53.834] [DEBUG] debug-file - Update task entry:default@LegacyMakePackInfo input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\src\main\config.json cache by regenerate.
+[2024-12-25T08:57:53.834] [DEBUG] debug-file - Update task entry:default@LegacyMakePackInfo output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\outputs\default\pack.info cache.
+[2024-12-25T08:57:53.835] [DEBUG] debug-file - Incremental task entry:default@LegacyMakePackInfo post-execution cost:1 ms .
+[2024-12-25T08:57:53.835] [DEBUG] debug-file - Update task entry:default@LegacyProcessProfile input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\merge_profile\default\config.json cache by regenerate.
+[2024-12-25T08:57:53.835] [DEBUG] debug-file - Update task entry:default@LegacyProcessProfile input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build-profile.json5 cache by regenerate.
+[2024-12-25T08:57:53.835] [DEBUG] debug-file - Update task entry:default@LegacyProcessProfile output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\process_profile\default\config.json cache.
+[2024-12-25T08:57:53.835] [DEBUG] debug-file - Incremental task entry:default@LegacyProcessProfile post-execution cost:1 ms .
+[2024-12-25T08:57:53.835] [DEBUG] debug-file - Update task entry:default@LegacyGenerateLoaderJson output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\loader\default\MainAbility\loader.json cache.
+[2024-12-25T08:57:53.835] [DEBUG] debug-file - Incremental task entry:default@LegacyGenerateLoaderJson post-execution cost:1 ms .
+[2024-12-25T08:57:53.835] [DEBUG] debug-file - Update task entry:default@LegacyProcessResource output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\res\default\resConfig.json cache.
+[2024-12-25T08:57:53.836] [DEBUG] debug-file - Incremental task entry:default@LegacyProcessResource post-execution cost:1 ms .
+[2024-12-25T08:57:53.836] [DEBUG] debug-file - Update task entry:default@ProcessLibs input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\build-profile.json5 cache by regenerate.
+[2024-12-25T08:57:53.836] [DEBUG] debug-file - Update task entry:default@ProcessLibs input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build-profile.json5 cache by regenerate.
+[2024-12-25T08:57:53.836] [DEBUG] debug-file - Update task entry:default@ProcessLibs output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\libs\default cache.
+[2024-12-25T08:57:53.837] [DEBUG] debug-file - Incremental task entry:default@ProcessLibs post-execution cost:2 ms .
+[2024-12-25T08:57:53.837] [DEBUG] debug-file - Update task entry:default@LegacyCompileResource input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\src\main\resources cache by regenerate.
+[2024-12-25T08:57:53.838] [DEBUG] debug-file - Update task entry:default@LegacyCompileResource input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\process_profile\default\config.json cache by regenerate.
+[2024-12-25T08:57:53.838] [DEBUG] debug-file - Update task entry:default@LegacyCompileResource input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\res\default\resConfig.json cache by regenerate.
+[2024-12-25T08:57:53.839] [DEBUG] debug-file - Update task entry:default@LegacyCompileResource output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\res\default cache.
+[2024-12-25T08:57:53.840] [DEBUG] debug-file - Update task entry:default@LegacyCompileResource output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\cache\default\r\ResourceTable.h cache.
+[2024-12-25T08:57:53.840] [DEBUG] debug-file - Update task entry:default@LegacyCompileResource output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\cache\default\r cache.
+[2024-12-25T08:57:53.840] [DEBUG] debug-file - Incremental task entry:default@LegacyCompileResource post-execution cost:4 ms .
+[2024-12-25T08:57:53.841] [DEBUG] debug-file - Update task entry:default@LegacyCompileArkTS input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\manifest\default cache by regenerate.
+[2024-12-25T08:57:53.841] [DEBUG] debug-file - Update task entry:default@LegacyCompileArkTS input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\loader\default cache by regenerate.
+[2024-12-25T08:57:53.841] [DEBUG] debug-file - Update task entry:default@LegacyCompileArkTS input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\res\default\ResourceTable.txt cache by regenerate.
+[2024-12-25T08:57:53.842] [DEBUG] debug-file - Update task entry:default@LegacyCompileArkTS output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\loader_out\default\ets cache.
+[2024-12-25T08:57:53.842] [DEBUG] debug-file - Incremental task entry:default@LegacyCompileArkTS post-execution cost:2 ms .
+[2024-12-25T08:57:53.842] [DEBUG] debug-file - Update task entry:default@LegacyBuildJS input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\manifest\default cache by regenerate.
+[2024-12-25T08:57:53.843] [DEBUG] debug-file - Update task entry:default@LegacyBuildJS input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\loader\default cache by regenerate.
+[2024-12-25T08:57:53.843] [DEBUG] debug-file - Update task entry:default@LegacyBuildJS input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\res\default\ResourceTable.txt cache by regenerate.
+[2024-12-25T08:57:53.843] [DEBUG] debug-file - Update task entry:default@LegacyBuildJS input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\src\main\js cache by regenerate.
+[2024-12-25T08:57:53.845] [DEBUG] debug-file - Update task entry:default@LegacyBuildJS output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\loader_out\default\js cache.
+[2024-12-25T08:57:53.847] [DEBUG] debug-file - Incremental task entry:default@LegacyBuildJS post-execution cost:6 ms .
+[2024-12-25T08:57:53.847] [DEBUG] debug-file - Update task entry:default@DoNativeStrip input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\libs\default cache by regenerate.
+[2024-12-25T08:57:53.847] [DEBUG] debug-file - Update task entry:default@DoNativeStrip output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\stripped_native_libs\default cache.
+[2024-12-25T08:57:53.848] [DEBUG] debug-file - Incremental task entry:default@DoNativeStrip post-execution cost:1 ms .
+[2024-12-25T08:57:53.848] [DEBUG] debug-file - Update task entry:default@CacheNativeLibs input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\stripped_native_libs\default cache by regenerate.
+[2024-12-25T08:57:53.848] [DEBUG] debug-file - Update task entry:default@CacheNativeLibs input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\libs\default cache by regenerate.
+[2024-12-25T08:57:53.848] [DEBUG] debug-file - Update task entry:default@CacheNativeLibs output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\patch\default\base_native_libs.json cache.
+[2024-12-25T08:57:53.849] [DEBUG] debug-file - Incremental task entry:default@CacheNativeLibs post-execution cost:1 ms .
+[2024-12-25T08:57:53.849] [DEBUG] debug-file - Update task entry:default@LegacyProcessNodeAssets input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\loader_out\default cache by regenerate.
+[2024-12-25T08:57:53.851] [DEBUG] debug-file - Update task entry:default@LegacyProcessNodeAssets output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\assets_jsbundle\default\js cache.
+[2024-12-25T08:57:53.852] [DEBUG] debug-file - Incremental task entry:default@LegacyProcessNodeAssets post-execution cost:4 ms .
+[2024-12-25T08:57:53.852] [DEBUG] debug-file - Update task entry:default@LegacyPackageHap input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\libs\default cache by regenerate.
+[2024-12-25T08:57:53.852] [DEBUG] debug-file - Update task entry:default@LegacyPackageHap input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\assets_jsbundle\default cache by regenerate.
+[2024-12-25T08:57:53.854] [DEBUG] debug-file - Update task entry:default@LegacyPackageHap input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\res\default\config.json cache by regenerate.
+[2024-12-25T08:57:53.854] [DEBUG] debug-file - Update task entry:default@LegacyPackageHap input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\res\default\resources cache by regenerate.
+[2024-12-25T08:57:53.855] [DEBUG] debug-file - Update task entry:default@LegacyPackageHap input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\res\default\resources.index cache by regenerate.
+[2024-12-25T08:57:53.855] [DEBUG] debug-file - Update task entry:default@LegacyPackageHap input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\outputs\default\pack.info cache by regenerate.
+[2024-12-25T08:57:53.855] [DEBUG] debug-file - Update task entry:default@LegacyPackageHap output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\outputs\default\entry-default-unsigned.hap cache.
+[2024-12-25T08:57:53.855] [DEBUG] debug-file - Incremental task entry:default@LegacyPackageHap post-execution cost:4 ms .
+[2024-12-25T08:57:53.855] [DEBUG] debug-file - Update task entry:default@SignHap input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\outputs\default\entry-default-unsigned.hap cache by regenerate.
+[2024-12-25T08:57:53.856] [DEBUG] debug-file - Update task entry:default@SignHap output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\outputs\default\entry-default-signed.hap cache.
+[2024-12-25T08:57:53.856] [DEBUG] debug-file - Incremental task entry:default@SignHap post-execution cost:1 ms .
+[2024-12-25T08:57:53.874] [DEBUG] debug-file - Current worker pool is stopped or closed.
+[2024-12-25T08:57:53.874] [DEBUG] debug-file - Clear worker 0.
+[2024-12-25T08:57:53.874] [DEBUG] debug-file - Worker 0 has been cleared.
+[2024-12-25T08:57:53.874] [DEBUG] debug-file - Current idle worker size: 2.
+[2024-12-25T08:57:53.874] [DEBUG] debug-file - Current busy worker size: 0.
+[2024-12-25T08:57:53.875] [DEBUG] debug-file - Clear worker 1.
+[2024-12-25T08:57:53.875] [DEBUG] debug-file - Worker 1 has been cleared.
+[2024-12-25T08:57:53.875] [DEBUG] debug-file - Current idle worker size: 1.
+[2024-12-25T08:57:53.875] [DEBUG] debug-file - Current busy worker size: 0.
+[2024-12-25T08:57:53.875] [DEBUG] debug-file - Clear worker 10.
+[2024-12-25T08:57:53.875] [DEBUG] debug-file - Worker 10 has been cleared.
+[2024-12-25T08:57:53.875] [DEBUG] debug-file - Current idle worker size: 0.
+[2024-12-25T08:57:53.875] [DEBUG] debug-file - Current busy worker size: 0.
+[2024-12-25T08:57:53.876] [DEBUG] debug-file - hvigor build process will be closed.
+[2024-12-25T08:57:53.878] [DEBUG] debug-file - worker[0] exits with exit code 1.
+[2024-12-25T08:57:53.878] [DEBUG] debug-file - Current worker pool is terminated.
+[2024-12-25T08:57:53.881] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-12-25T08:57:53.881] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-12-25T08:57:53.881] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2024-12-25T08:57:53.881] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2024-12-25T08:57:53.884] [DEBUG] debug-file - worker[1] exits with exit code 1.
+[2024-12-25T08:57:53.888] [DEBUG] debug-file - worker[10] exits with exit code 1.
+[2024-12-25T08:58:21.978] [DEBUG] debug-file - session manager: set active socket. socketId=oYceh-6kayhhJwUHAAAD
+[2024-12-25T08:58:21.985] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2024-12-25T08:58:21.997] [DEBUG] debug-file - Hvigor init with startParameters:{
+  hvigorfileTypeCheck: false,
+  parallelExecution: true,
+  incrementalExecution: true,
+  printStackTrace: false,
+  daemon: true,
+  analyze: 0,
+  logLevel: Level { level: 20000, levelStr: 'INFO', colour: 'green' }
+}
+[2024-12-25T08:58:22.001] [DEBUG] debug-file - Cache service initialization finished in 4 ms 
+[2024-12-25T08:58:22.009] [DEBUG] debug-file - hvigorfile, resolving D:\sourceCode\HuaWei\codelabs\DialogDemo\hvigorfile.ts
+[2024-12-25T08:58:22.013] [DEBUG] debug-file - hvigorfile, require result:  {}
+[2024-12-25T08:58:22.014] [DEBUG] debug-file - hvigorfile, binding system plugins {}
+[2024-12-25T08:58:22.020] [DEBUG] debug-file - Start initialize project's product build option map with build mode debug.
+[2024-12-25T08:58:22.020] [DEBUG] debug-file - Picking option from product 'default' with build mode 'debug'.
+[2024-12-25T08:58:22.020] [DEBUG] debug-file - Product 'default' build option: {}
+[2024-12-25T08:58:22.020] [DEBUG] debug-file - End initialize project's product build option map with build mode 'debug'.
+[2024-12-25T08:58:22.021] [DEBUG] debug-file - Product 'default' using build option: {
+  "debuggable": true
+} in this build.
+[2024-12-25T08:58:22.030] [DEBUG] debug-file - Start recording SDK configuration permission data.
+[2024-12-25T08:58:22.057] [DEBUG] debug-file - Sdk init in 33 ms 
+[2024-12-25T08:58:22.070] [DEBUG] debug-file - Project task initialization takes 13 ms 
+[2024-12-25T08:58:22.070] [DEBUG] debug-file - hvigorfile, resolve finished D:\sourceCode\HuaWei\codelabs\DialogDemo\hvigorfile.ts
+[2024-12-25T08:58:22.073] [DEBUG] debug-file - hvigorfile, resolving D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\hvigorfile.ts
+[2024-12-25T08:58:22.077] [DEBUG] debug-file - hvigorfile, require result:  {}
+[2024-12-25T08:58:22.077] [DEBUG] debug-file - hvigorfile, binding system plugins {}
+[2024-12-25T08:58:22.081] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=entry, buildMode=debug
+[2024-12-25T08:58:22.082] [DEBUG] debug-file - Target 'default' config: {}
+[2024-12-25T08:58:22.082] [DEBUG] debug-file - Module 'entry' target 'default' build option: {
+  "debuggable": true,
+  "copyFrom": "default"
+}
+[2024-12-25T08:58:22.082] [DEBUG] debug-file - End initialize module-target build option map, moduleName=entry
+[2024-12-25T08:58:22.082] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default"
+} in this build.
+[2024-12-25T08:58:22.091] [DEBUG] debug-file - Since there is no instance or instance is terminated, create a new worker pool.
+[2024-12-25T08:58:22.091] [DEBUG] debug-file - Worker pool is initialized with config:  {
+  minPoolNum: 2,
+  maxPoolNum: undefined,
+  maxCoreSize: undefined,
+  cacheCapacity: undefined,
+  cacheTtl: undefined
+}
+[2024-12-25T08:58:22.092] [DEBUG] debug-file - Create  resident worker with id: 0.
+[2024-12-25T08:58:22.092] [DEBUG] debug-file - Create  resident worker with id: 1.
+[2024-12-25T08:58:22.093] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.093] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.093] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.101] [DEBUG] debug-file - Module entry Collected Dependency: 
+[2024-12-25T08:58:22.101] [DEBUG] debug-file - Module entry's total dependency: 0
+[2024-12-25T08:58:22.101] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.101] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.101] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.104] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.104] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.104] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.106] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default"
+} in this build.
+[2024-12-25T08:58:22.109] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.109] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.109] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.111] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.112] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.112] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.114] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.114] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.115] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.116] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.116] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.116] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.119] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.119] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.119] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.120] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyPreviewProcessResource
+[2024-12-25T08:58:22.122] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.122] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.122] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.122] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyPreviewCompileResource
+[2024-12-25T08:58:22.125] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.125] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.125] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.125] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyProcessResource
+[2024-12-25T08:58:22.127] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.127] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.127] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.128] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyCompileResource
+[2024-12-25T08:58:22.130] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.130] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.130] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.133] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.133] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.133] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.135] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.136] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.136] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.138] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.139] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.139] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.145] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.145] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.145] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.149] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.150] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.150] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.151] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.151] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.151] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.153] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.153] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.153] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.156] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.156] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.156] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.162] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.162] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.162] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.163] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.164] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.164] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.169] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.169] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.169] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.171] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.171] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.171] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.173] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.173] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.173] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.174] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.174] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.174] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.179] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.179] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.179] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.184] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.184] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.184] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.188] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.188] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.188] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.192] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.192] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.192] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.196] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.196] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.196] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.202] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.202] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.203] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.208] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.209] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.209] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.214] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.214] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.214] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.219] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.219] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.219] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.224] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.224] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.224] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.229] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.229] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.229] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.236] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.237] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.237] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.239] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.239] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.239] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.242] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.243] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.243] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.244] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.244] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.244] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.246] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.246] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.246] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.248] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.248] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.249] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.251] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.251] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.251] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.254] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.254] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.254] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.256] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.256] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.256] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.258] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.258] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.258] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.262] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.262] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.262] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.263] [DEBUG] debug-file - Module entry task initialization takes 178 ms 
+[2024-12-25T08:58:22.263] [DEBUG] debug-file - hvigorfile, resolve finished D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\hvigorfile.ts
+[2024-12-25T08:58:22.277] [DEBUG] debug-file - hvigorfile, resolve hvigorfile dependencies in 13 ms 
+[2024-12-25T08:58:22.278] [DEBUG] debug-file - project has submodules:entry
+[2024-12-25T08:58:22.280] [DEBUG] debug-file - start to load updatedOhPackageInfo to the disk
+[2024-12-25T08:58:22.283] [DEBUG] debug-file - load to the disk finished
+[2024-12-25T08:58:22.284] [DEBUG] debug-file - Module DialogDemo Collected Dependency: 
+[2024-12-25T08:58:22.285] [DEBUG] debug-file - Module DialogDemo's total dependency: 0
+[2024-12-25T08:58:22.286] [DEBUG] debug-file - Module entry Collected Dependency: 
+[2024-12-25T08:58:22.286] [DEBUG] debug-file - Module entry's total dependency: 0
+[2024-12-25T08:58:22.287] [DEBUG] debug-file - compile ArkTS with rollup
+[2024-12-25T08:58:22.287] [DEBUG] debug-file - compile ace js with webpack
+[2024-12-25T08:58:22.288] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.288] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.288] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.289] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyProcessResource
+[2024-12-25T08:58:22.290] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.290] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:22.290] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:22.291] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyCompileResource
+[2024-12-25T08:58:22.292] [DEBUG] debug-file - Configuration phase cost:288 ms 
+[2024-12-25T08:58:22.294] [DEBUG] debug-file - Configuration task cost before running: 307 ms 
+[2024-12-25T08:58:22.294] [DEBUG] debug-file - Executing task :entry:init
+[2024-12-25T08:58:22.294] [DEBUG] debug-file - entry : init cost memory 0.01390838623046875
+[2024-12-25T08:58:22.294] [DEBUG] debug-file - runTaskFromQueue task cost before running: 307 ms 
+[2024-12-25T08:58:22.294] [INFO] debug-file - Finished :entry:init... after 1 ms 
+[2024-12-25T08:58:22.294] [DEBUG] debug-file - Executing task ::init
+[2024-12-25T08:58:22.294] [DEBUG] debug-file - DialogDemo : init cost memory 0.012725830078125
+[2024-12-25T08:58:22.294] [DEBUG] debug-file - runTaskFromQueue task cost before running: 307 ms 
+[2024-12-25T08:58:22.294] [INFO] debug-file - Finished ::init... after 1 ms 
+[2024-12-25T08:58:22.305] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default"
+} in this build.
+[2024-12-25T08:58:22.307] [DEBUG] debug-file - Current worker pool is stopped or closed.
+[2024-12-25T08:58:22.307] [DEBUG] debug-file - Clear worker 0.
+[2024-12-25T08:58:22.307] [DEBUG] debug-file - Worker 0 has been cleared.
+[2024-12-25T08:58:22.307] [DEBUG] debug-file - Current idle worker size: 1.
+[2024-12-25T08:58:22.307] [DEBUG] debug-file - Current busy worker size: 0.
+[2024-12-25T08:58:22.308] [DEBUG] debug-file - Clear worker 1.
+[2024-12-25T08:58:22.308] [DEBUG] debug-file - Worker 1 has been cleared.
+[2024-12-25T08:58:22.308] [DEBUG] debug-file - Current idle worker size: 0.
+[2024-12-25T08:58:22.308] [DEBUG] debug-file - Current busy worker size: 0.
+[2024-12-25T08:58:22.308] [DEBUG] debug-file - hvigor build process will be closed.
+[2024-12-25T08:58:22.309] [DEBUG] debug-file - Current worker pool is terminated.
+[2024-12-25T08:58:22.310] [DEBUG] debug-file - worker[0] exits with exit code 1.
+[2024-12-25T08:58:22.311] [DEBUG] debug-file - worker[1] exits with exit code 1.
+[2024-12-25T08:58:22.315] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-12-25T08:58:22.316] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-12-25T08:58:22.315] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2024-12-25T08:58:22.316] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2024-12-25T08:58:45.927] [DEBUG] debug-file - session manager: set active socket. socketId=Stm8HARM8jq5_HJ2AAAF
+[2024-12-25T08:58:45.931] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2024-12-25T08:58:45.939] [DEBUG] debug-file - Hvigor init with startParameters:{
+  hvigorfileTypeCheck: false,
+  parallelExecution: true,
+  incrementalExecution: true,
+  printStackTrace: false,
+  daemon: true,
+  analyze: 0,
+  logLevel: Level { level: 20000, levelStr: 'INFO', colour: 'green' }
+}
+[2024-12-25T08:58:45.941] [DEBUG] debug-file - Cache service initialization finished in 2 ms 
+[2024-12-25T08:58:45.949] [DEBUG] debug-file - hvigorfile, resolving D:\sourceCode\HuaWei\codelabs\DialogDemo\hvigorfile.ts
+[2024-12-25T08:58:45.952] [DEBUG] debug-file - hvigorfile, require result:  {}
+[2024-12-25T08:58:45.952] [DEBUG] debug-file - hvigorfile, binding system plugins {}
+[2024-12-25T08:58:45.956] [DEBUG] debug-file - Start initialize project's product build option map with build mode debug.
+[2024-12-25T08:58:45.956] [DEBUG] debug-file - Picking option from product 'default' with build mode 'debug'.
+[2024-12-25T08:58:45.956] [DEBUG] debug-file - Product 'default' build option: {}
+[2024-12-25T08:58:45.956] [DEBUG] debug-file - End initialize project's product build option map with build mode 'debug'.
+[2024-12-25T08:58:45.957] [DEBUG] debug-file - Product 'default' using build option: {
+  "debuggable": true
+} in this build.
+[2024-12-25T08:58:45.963] [DEBUG] debug-file - Start recording SDK configuration permission data.
+[2024-12-25T08:58:45.981] [DEBUG] debug-file - Sdk init in 23 ms 
+[2024-12-25T08:58:45.991] [DEBUG] debug-file - Project task initialization takes 10 ms 
+[2024-12-25T08:58:45.991] [DEBUG] debug-file - hvigorfile, resolve finished D:\sourceCode\HuaWei\codelabs\DialogDemo\hvigorfile.ts
+[2024-12-25T08:58:45.995] [DEBUG] debug-file - hvigorfile, resolving D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\hvigorfile.ts
+[2024-12-25T08:58:45.998] [DEBUG] debug-file - hvigorfile, require result:  {}
+[2024-12-25T08:58:45.999] [DEBUG] debug-file - hvigorfile, binding system plugins {}
+[2024-12-25T08:58:46.002] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=entry, buildMode=debug
+[2024-12-25T08:58:46.002] [DEBUG] debug-file - Target 'default' config: {}
+[2024-12-25T08:58:46.003] [DEBUG] debug-file - Module 'entry' target 'default' build option: {
+  "debuggable": true,
+  "copyFrom": "default"
+}
+[2024-12-25T08:58:46.003] [DEBUG] debug-file - End initialize module-target build option map, moduleName=entry
+[2024-12-25T08:58:46.003] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default"
+} in this build.
+[2024-12-25T08:58:46.010] [DEBUG] debug-file - Since there is no instance or instance is terminated, create a new worker pool.
+[2024-12-25T08:58:46.010] [DEBUG] debug-file - Worker pool is initialized with config:  {
+  minPoolNum: 2,
+  maxPoolNum: undefined,
+  maxCoreSize: undefined,
+  cacheCapacity: undefined,
+  cacheTtl: undefined
+}
+[2024-12-25T08:58:46.011] [DEBUG] debug-file - Create  resident worker with id: 0.
+[2024-12-25T08:58:46.011] [DEBUG] debug-file - Create  resident worker with id: 1.
+[2024-12-25T08:58:46.012] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.012] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.012] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.018] [DEBUG] debug-file - Module entry Collected Dependency: 
+[2024-12-25T08:58:46.018] [DEBUG] debug-file - Module entry's total dependency: 0
+[2024-12-25T08:58:46.019] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.019] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.019] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.022] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.022] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.022] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.023] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default"
+} in this build.
+[2024-12-25T08:58:46.025] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.025] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.025] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.026] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.027] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.027] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.029] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.029] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.029] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.032] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.032] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.032] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.036] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.036] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.036] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.037] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyPreviewProcessResource
+[2024-12-25T08:58:46.040] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.040] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.040] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.041] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyPreviewCompileResource
+[2024-12-25T08:58:46.044] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.044] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.044] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.045] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyProcessResource
+[2024-12-25T08:58:46.047] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.048] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.048] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.048] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyCompileResource
+[2024-12-25T08:58:46.052] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.052] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.052] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.053] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.053] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.053] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.055] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.055] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.055] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.057] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.057] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.057] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.059] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.060] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.060] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.062] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.062] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.062] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.064] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.064] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.064] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.066] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.066] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.066] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.067] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.067] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.068] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.071] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.071] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.071] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.072] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.072] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.073] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.076] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.076] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.076] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.078] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.078] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.078] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.080] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.080] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.080] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.081] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.081] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.081] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.087] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.087] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.087] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.094] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.094] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.094] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.099] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.099] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.099] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.104] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.104] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.104] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.107] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.107] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.108] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.111] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.111] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.111] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.115] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.115] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.115] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.119] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.119] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.119] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.124] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.124] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.124] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.131] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.131] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.131] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.136] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.136] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.136] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.141] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.141] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.141] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.143] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.143] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.143] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.146] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.146] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.146] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.148] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.148] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.148] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.150] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.150] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.150] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.154] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.155] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.155] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.158] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.158] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.158] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.161] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.161] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.161] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.163] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.164] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.164] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.172] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.172] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.172] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.176] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.176] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.176] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.177] [DEBUG] debug-file - Module entry task initialization takes 171 ms 
+[2024-12-25T08:58:46.177] [DEBUG] debug-file - hvigorfile, resolve finished D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\hvigorfile.ts
+[2024-12-25T08:58:46.189] [DEBUG] debug-file - hvigorfile, resolve hvigorfile dependencies in 12 ms 
+[2024-12-25T08:58:46.190] [DEBUG] debug-file - project has submodules:entry
+[2024-12-25T08:58:46.192] [DEBUG] debug-file - start to load updatedOhPackageInfo to the disk
+[2024-12-25T08:58:46.195] [DEBUG] debug-file - load to the disk finished
+[2024-12-25T08:58:46.197] [DEBUG] debug-file - Module DialogDemo Collected Dependency: 
+[2024-12-25T08:58:46.197] [DEBUG] debug-file - Module DialogDemo's total dependency: 0
+[2024-12-25T08:58:46.198] [DEBUG] debug-file - Module entry Collected Dependency: 
+[2024-12-25T08:58:46.198] [DEBUG] debug-file - Module entry's total dependency: 0
+[2024-12-25T08:58:46.199] [DEBUG] debug-file - compile ArkTS with rollup
+[2024-12-25T08:58:46.199] [DEBUG] debug-file - compile ace js with webpack
+[2024-12-25T08:58:46.201] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.201] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.201] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.201] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyProcessResource
+[2024-12-25T08:58:46.203] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.203] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-12-25T08:58:46.203] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"Please describe the basic information.","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-12-25T08:58:46.204] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@LegacyCompileResource
+[2024-12-25T08:58:46.205] [DEBUG] debug-file - Configuration phase cost:260 ms 
+[2024-12-25T08:58:46.206] [DEBUG] debug-file - Configuration task cost before running: 274 ms 
+[2024-12-25T08:58:46.207] [DEBUG] debug-file - Executing task :entry:default@LegacyPreBuild
+[2024-12-25T08:58:46.208] [DEBUG] debug-file - entry:default@LegacyPreBuild is not up-to-date, since the input file 'D:\sourceCode\HuaWei\codelabs\DialogDemo\build-profile.json5' has been changed.
+[2024-12-25T08:58:46.209] [DEBUG] debug-file - Incremental task entry:default@LegacyPreBuild pre-execution cost: 2 ms .
+[2024-12-25T08:58:46.222] [DEBUG] debug-file - Use tool [win32: JAVA_HOME, CLASSPATH]
+ [
+  { JAVA_HOME: 'D:\\ProgramsFiles\\HuaWei\\DevEco Studio\\jbr' },
+  { CLASSPATH: undefined }
+]
+[2024-12-25T08:58:46.222] [DEBUG] debug-file - Use tool [win32: NODE_HOME]
+ [
+  {
+    NODE_HOME: 'D:\\ProgramsFiles\\HuaWei\\DevEco Studio\\tools\\node'
+  }
+]
+[2024-12-25T08:58:46.223] [DEBUG] debug-file - entry : default@LegacyPreBuild cost memory 0.858734130859375
+[2024-12-25T08:58:46.223] [DEBUG] debug-file - runTaskFromQueue task cost before running: 290 ms 
+[2024-12-25T08:58:46.223] [INFO] debug-file - Finished :entry:default@LegacyPreBuild... after 17 ms 
+[2024-12-25T08:58:46.224] [DEBUG] debug-file - Executing task :entry:default@LegacyGenerateMetadata
+[2024-12-25T08:58:46.224] [DEBUG] debug-file - Task 'entry:default@LegacyGenerateMetadata' cost while wrapping incremental declarations: 1 ms 
+[2024-12-25T08:58:46.225] [DEBUG] debug-file - entry:default@LegacyGenerateMetadata is not up-to-date, since the task snapshots are different.
+[2024-12-25T08:58:46.226] [DEBUG] debug-file - Incremental task entry:default@LegacyGenerateMetadata pre-execution cost: 1 ms .
+[2024-12-25T08:58:46.227] [DEBUG] debug-file - entry : default@LegacyGenerateMetadata cost memory 0.1342926025390625
+[2024-12-25T08:58:46.227] [DEBUG] debug-file - runTaskFromQueue task cost before running: 294 ms 
+[2024-12-25T08:58:46.227] [INFO] debug-file - Finished :entry:default@LegacyGenerateMetadata... after 4 ms 
+[2024-12-25T08:58:46.227] [DEBUG] debug-file - Executing task :entry:default@PreCheckSyscap
+[2024-12-25T08:58:46.227] [DEBUG] debug-file - entry : default@PreCheckSyscap cost memory 0.01334381103515625
+[2024-12-25T08:58:46.227] [DEBUG] debug-file - runTaskFromQueue task cost before running: 295 ms 
+[2024-12-25T08:58:46.227] [INFO] debug-file - Finished :entry:default@PreCheckSyscap... after 1 ms 
+[2024-12-25T08:58:46.227] [DEBUG] debug-file - Executing task :entry:default@LegacyMergeProfile
+[2024-12-25T08:58:46.229] [DEBUG] debug-file - Incremental task entry:default@LegacyMergeProfile pre-execution cost: 1 ms .
+[2024-12-25T08:58:46.229] [DEBUG] debug-file - entry : default@LegacyMergeProfile cost memory 0.076629638671875
+[2024-12-25T08:58:46.229] [INFO] debug-file - UP-TO-DATE :entry:default@LegacyMergeProfile...  
+[2024-12-25T08:58:46.229] [DEBUG] debug-file - Executing task :entry:default@LegacyGenerateJsManifest
+[2024-12-25T08:58:46.231] [DEBUG] debug-file - Incremental task entry:default@LegacyGenerateJsManifest pre-execution cost: 2 ms .
+[2024-12-25T08:58:46.231] [DEBUG] debug-file - entry : default@LegacyGenerateJsManifest cost memory 0.14582061767578125
+[2024-12-25T08:58:46.231] [INFO] debug-file - UP-TO-DATE :entry:default@LegacyGenerateJsManifest...  
+[2024-12-25T08:58:46.231] [DEBUG] debug-file - Executing task :entry:default@BuildNativeWithCmake
+[2024-12-25T08:58:46.231] [DEBUG] debug-file - entry : default@BuildNativeWithCmake cost memory 0.01410675048828125
+[2024-12-25T08:58:46.231] [DEBUG] debug-file - runTaskFromQueue task cost before running: 299 ms 
+[2024-12-25T08:58:46.231] [INFO] debug-file - Finished :entry:default@BuildNativeWithCmake... after 1 ms 
+[2024-12-25T08:58:46.231] [DEBUG] debug-file - Executing task :entry:default@LegacySyscapTransform
+[2024-12-25T08:58:46.232] [DEBUG] debug-file - File: 'D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\src\main\syscap.json' from 'sysCapJsonPath' is not exists, just ignore.
+[2024-12-25T08:58:46.232] [DEBUG] debug-file - Task 'entry:default@LegacySyscapTransform' cost while wrapping incremental declarations: 1 ms 
+[2024-12-25T08:58:46.233] [DEBUG] debug-file - entry:default@LegacySyscapTransform is not up-to-date, since the output file 'D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\syscap\default\rpcid.sc' does not exist.
+[2024-12-25T08:58:46.233] [DEBUG] debug-file - Incremental task entry:default@LegacySyscapTransform pre-execution cost: 1 ms .
+[2024-12-25T08:58:46.233] [DEBUG] debug-file - entry : default@LegacySyscapTransform cost memory 0.13552093505859375
+[2024-12-25T08:58:46.233] [DEBUG] debug-file - runTaskFromQueue task cost before running: 301 ms 
+[2024-12-25T08:58:46.233] [INFO] debug-file - Finished :entry:default@LegacySyscapTransform... after 2 ms 
+[2024-12-25T08:58:46.233] [DEBUG] debug-file - Executing task :entry:default@LegacyMakePackInfo
+[2024-12-25T08:58:46.235] [DEBUG] debug-file - Incremental task entry:default@LegacyMakePackInfo pre-execution cost: 2 ms .
+[2024-12-25T08:58:46.235] [DEBUG] debug-file - entry : default@LegacyMakePackInfo cost memory 0.11354827880859375
+[2024-12-25T08:58:46.236] [INFO] debug-file - UP-TO-DATE :entry:default@LegacyMakePackInfo...  
+[2024-12-25T08:58:46.236] [DEBUG] debug-file - Executing task :entry:default@LegacyProcessProfile
+[2024-12-25T08:58:46.237] [DEBUG] debug-file - Incremental task entry:default@LegacyProcessProfile pre-execution cost: 1 ms .
+[2024-12-25T08:58:46.237] [DEBUG] debug-file - entry : default@LegacyProcessProfile cost memory 0.0768280029296875
+[2024-12-25T08:58:46.237] [INFO] debug-file - UP-TO-DATE :entry:default@LegacyProcessProfile...  
+[2024-12-25T08:58:46.237] [DEBUG] debug-file - Executing task :entry:default@LegacyGenerateLoaderJson
+[2024-12-25T08:58:46.237] [DEBUG] debug-file - Incremental task entry:default@LegacyGenerateLoaderJson pre-execution cost: 1 ms .
+[2024-12-25T08:58:46.238] [DEBUG] debug-file - entry : default@LegacyGenerateLoaderJson cost memory 0.050201416015625
+[2024-12-25T08:58:46.238] [INFO] debug-file - UP-TO-DATE :entry:default@LegacyGenerateLoaderJson...  
+[2024-12-25T08:58:46.238] [DEBUG] debug-file - Executing task :entry:default@BuildNativeWithNinja
+[2024-12-25T08:58:46.238] [DEBUG] debug-file - entry : default@BuildNativeWithNinja cost memory 0.0315093994140625
+[2024-12-25T08:58:46.238] [DEBUG] debug-file - runTaskFromQueue task cost before running: 306 ms 
+[2024-12-25T08:58:46.238] [INFO] debug-file - Finished :entry:default@BuildNativeWithNinja... after 1 ms 
+[2024-12-25T08:58:46.239] [DEBUG] debug-file - Executing task :entry:default@LegacyProcessResource
+[2024-12-25T08:58:46.240] [DEBUG] debug-file - Incremental task entry:default@LegacyProcessResource pre-execution cost: 1 ms .
+[2024-12-25T08:58:46.241] [DEBUG] debug-file - entry : default@LegacyProcessResource cost memory -3.469482421875
+[2024-12-25T08:58:46.241] [INFO] debug-file - UP-TO-DATE :entry:default@LegacyProcessResource...  
+[2024-12-25T08:58:46.242] [DEBUG] debug-file - Executing task :entry:default@ProcessLibs
+[2024-12-25T08:58:46.243] [DEBUG] debug-file - entry:default@ProcessLibs is not up-to-date, since the input file 'D:\sourceCode\HuaWei\codelabs\DialogDemo\build-profile.json5' has been changed.
+[2024-12-25T08:58:46.244] [DEBUG] debug-file - Incremental task entry:default@ProcessLibs pre-execution cost: 1 ms .
+[2024-12-25T08:58:46.249] [DEBUG] debug-file - default@ProcessLibs work[5] is submitted.
+[2024-12-25T08:58:46.250] [DEBUG] debug-file - default@ProcessLibs work[5] is pushed to ready queue.
+[2024-12-25T08:58:46.250] [DEBUG] debug-file - A work dispatched to worker[11] failed because unable to get work from ready queue.
+[2024-12-25T08:58:46.250] [DEBUG] debug-file - Create  resident worker with id: 10.
+[2024-12-25T08:58:46.251] [DEBUG] debug-file - default@ProcessLibs work[5] has been dispatched to worker[10].
+[2024-12-25T08:58:46.251] [DEBUG] debug-file - default@ProcessLibs work[5] is dispatched.
+[2024-12-25T08:58:46.251] [DEBUG] debug-file - entry : default@ProcessLibs cost memory 0.666259765625
+[2024-12-25T08:58:46.251] [DEBUG] debug-file - Executing task :entry:default@LegacyCompileResource
+[2024-12-25T08:58:46.254] [DEBUG] debug-file - Incremental task entry:default@LegacyCompileResource pre-execution cost: 3 ms .
+[2024-12-25T08:58:46.254] [DEBUG] debug-file - entry : default@LegacyCompileResource cost memory 0.33727264404296875
+[2024-12-25T08:58:46.254] [INFO] debug-file - UP-TO-DATE :entry:default@LegacyCompileResource...  
+[2024-12-25T08:58:46.254] [DEBUG] debug-file - Executing task :entry:default@LegacyHookCompileResource
+[2024-12-25T08:58:46.254] [DEBUG] debug-file - entry : default@LegacyHookCompileResource cost memory 0.0142974853515625
+[2024-12-25T08:58:46.254] [DEBUG] debug-file - runTaskFromQueue task cost before running: 322 ms 
+[2024-12-25T08:58:46.255] [INFO] debug-file - Finished :entry:default@LegacyHookCompileResource... after 1 ms 
+[2024-12-25T08:58:46.255] [DEBUG] debug-file - Executing task :entry:default@LegacyCompileArkTS
+[2024-12-25T08:58:46.256] [DEBUG] debug-file - entry : default@LegacyCompileArkTS cost memory 0.0749664306640625
+[2024-12-25T08:58:46.256] [DEBUG] debug-file - runTaskFromQueue task cost before running: 324 ms 
+[2024-12-25T08:58:46.256] [INFO] debug-file - Finished :entry:default@LegacyCompileArkTS... after 2 ms 
+[2024-12-25T08:58:46.257] [DEBUG] debug-file - Executing task :entry:default@LegacyBuildJS
+[2024-12-25T08:58:46.262] [DEBUG] debug-file - Incremental task entry:default@LegacyBuildJS pre-execution cost: 5 ms .
+[2024-12-25T08:58:46.262] [DEBUG] debug-file - entry : default@LegacyBuildJS cost memory 0.520660400390625
+[2024-12-25T08:58:46.262] [INFO] debug-file - UP-TO-DATE :entry:default@LegacyBuildJS...  
+[2024-12-25T08:58:46.263] [DEBUG] debug-file - Executing task :entry:default@LegacyProcessNodeAssets
+[2024-12-25T08:58:46.267] [DEBUG] debug-file - Incremental task entry:default@LegacyProcessNodeAssets pre-execution cost: 4 ms .
+[2024-12-25T08:58:46.267] [DEBUG] debug-file - entry : default@LegacyProcessNodeAssets cost memory 0.47382354736328125
+[2024-12-25T08:58:46.267] [INFO] debug-file - UP-TO-DATE :entry:default@LegacyProcessNodeAssets...  
+[2024-12-25T08:58:46.891] [DEBUG] debug-file - worker[10] has one work done.
+[2024-12-25T08:58:46.892] [DEBUG] debug-file - default@ProcessLibs work[5] done.
+[2024-12-25T08:58:46.892] [DEBUG] debug-file - A work dispatched to worker[10] failed because unable to get work from ready queue.
+[2024-12-25T08:58:46.893] [INFO] debug-file - Finished :entry:default@ProcessLibs... after 10 ms 
+[2024-12-25T08:58:46.893] [DEBUG] debug-file - Executing task :entry:default@DoNativeStrip
+[2024-12-25T08:58:46.893] [DEBUG] debug-file - Task 'entry:default@DoNativeStrip' cost while wrapping incremental declarations: 1 ms 
+[2024-12-25T08:58:46.894] [DEBUG] debug-file - Incremental task entry:default@DoNativeStrip pre-execution cost: 1 ms .
+[2024-12-25T08:58:46.894] [DEBUG] debug-file - entry : default@DoNativeStrip cost memory 0.08234405517578125
+[2024-12-25T08:58:46.894] [INFO] debug-file - UP-TO-DATE :entry:default@DoNativeStrip...  
+[2024-12-25T08:58:46.894] [DEBUG] debug-file - Executing task :entry:default@CacheNativeLibs
+[2024-12-25T08:58:46.895] [DEBUG] debug-file - Task 'entry:default@CacheNativeLibs' cost while wrapping incremental declarations: 1 ms 
+[2024-12-25T08:58:46.896] [DEBUG] debug-file - Incremental task entry:default@CacheNativeLibs pre-execution cost: 2 ms .
+[2024-12-25T08:58:46.896] [DEBUG] debug-file - entry : default@CacheNativeLibs cost memory 0.098663330078125
+[2024-12-25T08:58:46.897] [INFO] debug-file - UP-TO-DATE :entry:default@CacheNativeLibs...  
+[2024-12-25T08:58:46.897] [DEBUG] debug-file - Executing task :entry:default@LegacyPackageHap
+[2024-12-25T08:58:46.902] [DEBUG] debug-file - Incremental task entry:default@LegacyPackageHap pre-execution cost: 5 ms .
+[2024-12-25T08:58:46.902] [DEBUG] debug-file - entry : default@LegacyPackageHap cost memory 0.42742919921875
+[2024-12-25T08:58:46.902] [INFO] debug-file - UP-TO-DATE :entry:default@LegacyPackageHap...  
+[2024-12-25T08:58:46.902] [DEBUG] debug-file - Executing task :entry:default@SignHap
+[2024-12-25T08:58:46.903] [DEBUG] debug-file - entry:default@SignHap is not up-to-date, since the input file 'C:\Users\Freerain\.ohos\config\default_DialogDemo_rCNixK-C96cAIj-0RBqMHhclg3b79fvIMYG0pGKitpM=.cer' has been changed.
+[2024-12-25T08:58:46.903] [DEBUG] debug-file - Incremental task entry:default@SignHap pre-execution cost: 1 ms .
+[2024-12-25T08:58:47.544] [DEBUG] debug-file - java daemon socket received message:{"code":0,"message":"verify profile success"}
+[2024-12-25T08:58:47.552] [DEBUG] debug-file - java daemon socket close code:1000 reason:close by user
+[2024-12-25T08:58:47.724] [DEBUG] debug-file - java daemon socket received message:{"code":0,"message":"sign app success"}
+[2024-12-25T08:58:47.725] [DEBUG] debug-file - entry : default@SignHap cost memory -2.3338088989257812
+[2024-12-25T08:58:47.725] [DEBUG] debug-file - runTaskFromQueue task cost before running: 1 s 792 ms 
+[2024-12-25T08:58:47.726] [INFO] debug-file - Finished :entry:default@SignHap... after 824 ms 
+[2024-12-25T08:58:47.726] [DEBUG] debug-file - Executing task :entry:assembleHap
+[2024-12-25T08:58:47.726] [DEBUG] debug-file - entry : assembleHap cost memory 0.0117645263671875
+[2024-12-25T08:58:47.726] [DEBUG] debug-file - runTaskFromQueue task cost before running: 1 s 793 ms 
+[2024-12-25T08:58:47.726] [INFO] debug-file - Finished :entry:assembleHap... after 1 ms 
+[2024-12-25T08:58:47.736] [DEBUG] debug-file - BUILD SUCCESSFUL in 1 s 804 ms 
+[2024-12-25T08:58:47.737] [DEBUG] debug-file - Update task entry:default@LegacyPreBuild input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\src\main\config.json cache by regenerate.
+[2024-12-25T08:58:47.738] [DEBUG] debug-file - Update task entry:default@LegacyPreBuild input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\oh-package.json5 cache by regenerate.
+[2024-12-25T08:58:47.738] [DEBUG] debug-file - Update task entry:default@LegacyPreBuild input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\build-profile.json5 cache from map.
+[2024-12-25T08:58:47.738] [DEBUG] debug-file - Update task entry:default@LegacyPreBuild input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build-profile.json5 cache by regenerate.
+[2024-12-25T08:58:47.738] [DEBUG] debug-file - Incremental task entry:default@LegacyPreBuild post-execution cost:2 ms .
+[2024-12-25T08:58:47.738] [DEBUG] debug-file - Update task entry:default@LegacyGenerateMetadata input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\src\main\config.json cache by regenerate.
+[2024-12-25T08:58:47.739] [DEBUG] debug-file - Update task entry:default@LegacyGenerateMetadata output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\hap_metadata\default\output_metadata.json cache.
+[2024-12-25T08:58:47.739] [DEBUG] debug-file - Incremental task entry:default@LegacyGenerateMetadata post-execution cost:1 ms .
+[2024-12-25T08:58:47.739] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@LegacyMergeProfile is up-to-date.
+[2024-12-25T08:58:47.739] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@LegacyGenerateJsManifest is up-to-date.
+[2024-12-25T08:58:47.739] [DEBUG] debug-file - Update task entry:default@LegacySyscapTransform input file:D:\ProgramsFiles\HuaWei\DevEco Studio\sdk\default\openharmony\toolchains\syscap_tool.exe cache by regenerate.
+[2024-12-25T08:58:47.739] [DEBUG] debug-file - Update task entry:default@LegacySyscapTransform input file:D:\ProgramsFiles\HuaWei\DevEco Studio\sdk\default\openharmony\ets\api\device-define cache by regenerate.
+[2024-12-25T08:58:47.740] [DEBUG] debug-file - Update task entry:default@LegacySyscapTransform output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\syscap\default\rpcid.sc cache.
+[2024-12-25T08:58:47.740] [DEBUG] debug-file - Incremental task entry:default@LegacySyscapTransform post-execution cost:2 ms .
+[2024-12-25T08:58:47.740] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@LegacyMakePackInfo is up-to-date.
+[2024-12-25T08:58:47.740] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@LegacyProcessProfile is up-to-date.
+[2024-12-25T08:58:47.740] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@LegacyGenerateLoaderJson is up-to-date.
+[2024-12-25T08:58:47.740] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@LegacyProcessResource is up-to-date.
+[2024-12-25T08:58:47.741] [DEBUG] debug-file - Update task entry:default@ProcessLibs input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\build-profile.json5 cache from map.
+[2024-12-25T08:58:47.741] [DEBUG] debug-file - Update task entry:default@ProcessLibs input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build-profile.json5 cache by regenerate.
+[2024-12-25T08:58:47.741] [DEBUG] debug-file - Update task entry:default@ProcessLibs output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\libs\default cache.
+[2024-12-25T08:58:47.741] [DEBUG] debug-file - Incremental task entry:default@ProcessLibs post-execution cost:1 ms .
+[2024-12-25T08:58:47.741] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@LegacyCompileResource is up-to-date.
+[2024-12-25T08:58:47.742] [DEBUG] debug-file - Update task entry:default@LegacyCompileArkTS input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\manifest\default cache by regenerate.
+[2024-12-25T08:58:47.742] [DEBUG] debug-file - Update task entry:default@LegacyCompileArkTS input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\loader\default cache by regenerate.
+[2024-12-25T08:58:47.742] [DEBUG] debug-file - Update task entry:default@LegacyCompileArkTS input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\res\default\ResourceTable.txt cache by regenerate.
+[2024-12-25T08:58:47.743] [DEBUG] debug-file - Update task entry:default@LegacyCompileArkTS output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\intermediates\loader_out\default\ets cache.
+[2024-12-25T08:58:47.743] [DEBUG] debug-file - Incremental task entry:default@LegacyCompileArkTS post-execution cost:2 ms .
+[2024-12-25T08:58:47.743] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@LegacyBuildJS is up-to-date.
+[2024-12-25T08:58:47.743] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@LegacyProcessNodeAssets is up-to-date.
+[2024-12-25T08:58:47.743] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@DoNativeStrip is up-to-date.
+[2024-12-25T08:58:47.743] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@CacheNativeLibs is up-to-date.
+[2024-12-25T08:58:47.743] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@LegacyPackageHap is up-to-date.
+[2024-12-25T08:58:47.743] [DEBUG] debug-file - Update task entry:default@SignHap input file:C:\Users\Freerain\.ohos\config\default_DialogDemo_rCNixK-C96cAIj-0RBqMHhclg3b79fvIMYG0pGKitpM=.cer cache from map.
+[2024-12-25T08:58:47.743] [DEBUG] debug-file - Update task entry:default@SignHap input file:C:\Users\Freerain\.ohos\config\default_DialogDemo_rCNixK-C96cAIj-0RBqMHhclg3b79fvIMYG0pGKitpM=.p7b cache by regenerate.
+[2024-12-25T08:58:47.744] [DEBUG] debug-file - Update task entry:default@SignHap input file:C:\Users\Freerain\.ohos\config\default_DialogDemo_rCNixK-C96cAIj-0RBqMHhclg3b79fvIMYG0pGKitpM=.p12 cache by regenerate.
+[2024-12-25T08:58:47.744] [DEBUG] debug-file - Update task entry:default@SignHap input file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\outputs\default\entry-default-unsigned.hap cache by regenerate.
+[2024-12-25T08:58:47.744] [DEBUG] debug-file - Update task entry:default@SignHap output file:D:\sourceCode\HuaWei\codelabs\DialogDemo\entry\build\default\outputs\default\entry-default-signed.hap cache.
+[2024-12-25T08:58:47.744] [DEBUG] debug-file - Incremental task entry:default@SignHap post-execution cost:2 ms .
+[2024-12-25T08:58:47.762] [DEBUG] debug-file - Current worker pool is stopped or closed.
+[2024-12-25T08:58:47.762] [DEBUG] debug-file - Clear worker 0.
+[2024-12-25T08:58:47.762] [DEBUG] debug-file - Worker 0 has been cleared.
+[2024-12-25T08:58:47.762] [DEBUG] debug-file - Current idle worker size: 2.
+[2024-12-25T08:58:47.762] [DEBUG] debug-file - Current busy worker size: 0.
+[2024-12-25T08:58:47.762] [DEBUG] debug-file - Clear worker 1.
+[2024-12-25T08:58:47.762] [DEBUG] debug-file - Worker 1 has been cleared.
+[2024-12-25T08:58:47.762] [DEBUG] debug-file - Current idle worker size: 1.
+[2024-12-25T08:58:47.762] [DEBUG] debug-file - Current busy worker size: 0.
+[2024-12-25T08:58:47.763] [DEBUG] debug-file - Clear worker 10.
+[2024-12-25T08:58:47.763] [DEBUG] debug-file - Worker 10 has been cleared.
+[2024-12-25T08:58:47.763] [DEBUG] debug-file - Current idle worker size: 0.
+[2024-12-25T08:58:47.763] [DEBUG] debug-file - Current busy worker size: 0.
+[2024-12-25T08:58:47.763] [DEBUG] debug-file - hvigor build process will be closed.
+[2024-12-25T08:58:47.764] [DEBUG] debug-file - Current worker pool is terminated.
+[2024-12-25T08:58:47.764] [DEBUG] debug-file - java daemon socket close code:1000 reason:close by user
+[2024-12-25T08:58:47.769] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-12-25T08:58:47.769] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-12-25T08:58:47.769] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2024-12-25T08:58:47.770] [DEBUG] debug-file - worker[1] exits with exit code 1.
+[2024-12-25T08:58:47.770] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2024-12-25T08:58:47.772] [DEBUG] debug-file - worker[0] exits with exit code 1.
+[2024-12-25T08:58:47.776] [DEBUG] debug-file - worker[10] exits with exit code 1.

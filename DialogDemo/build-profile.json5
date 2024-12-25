@@ -1,0 +1,41 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\Freerain\\.ohos\\config\\default_DialogDemo_rCNixK-C96cAIj-0RBqMHhclg3b79fvIMYG0pGKitpM=.cer",
+          "storePassword": "0000001BD1C1B7FBF452EE7C664FCE4044108840BBF8D68DF986D4B71F87A9D2DB9ED62EF138BEFC9463C2",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001B808740F551ACC2D7AF6DE8EA361C1CCBBEAF721BD529EAC641CF9FA3A1CE30C8286B2FF4AC9F68",
+          "profile": "C:\\Users\\Freerain\\.ohos\\config\\default_DialogDemo_rCNixK-C96cAIj-0RBqMHhclg3b79fvIMYG0pGKitpM=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\Freerain\\.ohos\\config\\default_DialogDemo_rCNixK-C96cAIj-0RBqMHhclg3b79fvIMYG0pGKitpM=.p12"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": '5.0.0(12)',
+        "runtimeOS": "HarmonyOS",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
